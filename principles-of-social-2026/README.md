@@ -13,7 +13,7 @@ attribution_text: "Principles of Social Psychology - 1st International H5P Editi
 -->
 
 <!-- grav:gen -->
-<div class="guide-cover">
+<div class="guide-cover guide-cover-portrait">
 
 ![Principles of Social Psychology - 1st International H5P Edition cover](OTB025-03-Principles-of-Social-Psychology-1st-International-H5P-Edition-STORE-768x994.jpg ":no-zoom")
 
