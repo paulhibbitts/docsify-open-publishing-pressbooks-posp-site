@@ -656,6 +656,10 @@ glossary:
 
 
 <!-- grav:gen -->
+[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|[O](#o)|[P](#p)|Q|[R](#r)|[S](#s)|[T](#t)|[U](#u)|[V](#v)|[W](#w)|X|Y|Z
+
+<h2 id="a">A</h2>
+
 **A**<br>
 **ttitude** is a knowledge representation that includes primarily our liking or disliking of a person, thing, or group
 
@@ -734,6 +738,8 @@ The tendency to make judgments of the frequency of an event, or the likelihood t
 **Avoidant attachment style**<br>
 When children are unable to relate to the parents at all, becoming distant, fearful, and cold
 
+<h2 id="b">B</h2>
+
 **Bait-and-switch technique**<br>
 A persuasion attempt in which the target is offered one product at a very low price and yet the product at the low price is not actually available
 
@@ -757,6 +763,8 @@ Interpreting the negative outcomes that occur to others internally so that it se
 
 **Bogus pipeline procedure**<br>
 A procedure, designed to elicit more honest responses, in which an experimenter first convinces participants that they have access to their “true” beliefs
+
+<h2 id="c">C</h2>
 
 **Catharsis**<br>
 The idea that engaging in less harmful aggressive actions will reduce the tendency to aggress later in a more harmful way
@@ -878,6 +886,8 @@ A social norm that condones and even encourages responding to insults with aggre
 **Cyberbullying**<br>
 Aggression inflicted through the use of computers, cell phones, and other electronic devices
 
+<h2 id="d">D</h2>
+
 **Defensive attribution**<br>
 When we make attributions that defend ourselves from the notion that we could be the victim of an unfortunate outcome, and often also that we could be held responsible as the victim
 
@@ -935,6 +945,8 @@ When we attempt to create a positive image of ourselves through favorable compar
 **Dual-concern model of cooperation and competition**<br>
 A model of individuals relating to social dilemmas, or other forms of conflict, in different ways, depending on their underlying personal orientations or as influenced by the characteristics of the situation that orient them toward a given concern
 
+<h2 id="e">E</h2>
+
 **Electroencephalography (EEG)**<br>
 A technique that records the electrical activity produced by the brain’s neurons through the use of electrodes that are placed around the research participant’s head
 
@@ -976,6 +988,8 @@ The prediction that people who have friends from other social groups will be mor
 
 **External validity**<br>
 The extent to which relationships can be expected to hold up when they are tested again in different ways and for different people
+
+<h2 id="f">F</h2>
 
 **Factorial research designs**<br>
 Experimental designs that have two or more independent variables
@@ -1022,6 +1036,8 @@ A neuroimaging technique that uses a magnetic field to create images of brain st
 **Fundamental attribution error**<br>
 When we tend to overestimate the role of person factors and overlook the impact of situations in explaining a behavior
 
+<h2 id="g">G</h2>
+
 **Global attributions**<br>
 Those attributions that we feel apply broadly
 
@@ -1040,6 +1056,8 @@ The events that occur while the group is working together on the task
 **Groupthink**<br>
 When a group that is made up of members who may actually be very competent and thus quite capable of making excellent decisions nevertheless ends up making a poor one as a result of a flawed group process and strong conformity pressures
 
+<h2 id="h">H</h2>
+
 **Halo effect**<br>
 The influence of a global positive evaluation of a person on perceptions of their specific traits
 
@@ -1051,6 +1069,8 @@ A social dilemma that leads people to overuse an existing public good
 
 **Hindsight bias**<br>
 The tendency to think that we could have predicted something that we probably would not have been able to predict
+
+<h2 id="i">I</h2>
 
 **Illusion of group effectivity**<br>
 The tendency to overvalue the level of productivity of our ingroups
@@ -1106,6 +1126,8 @@ The extent to which changes in the dependent variable in an experiment can confi
 **Interpersonal attraction**<br>
 The strength of our liking or loving for another person
 
+<h2 id="j">J</h2>
+
 **Jigsaw classroom**<br>
 An approach to learning in which students from different racial or ethnic groups work together, in an interdependent way, to master material
 
@@ -1118,8 +1140,12 @@ The belief that people get what they deserve in life
 **Just world hypothesis**<br>
 The tendency to make attributions based on the belief that the world is fundamentally just
 
+<h2 id="k">K</h2>
+
 **Kin selection**<br>
 Strategies that favor the reproductive success of one’s relatives, sometimes even at a cost to the individual’s own survival
+
+<h2 id="l">L</h2>
 
 **Labeling bias**<br>
 When we are labeled, and others’ views and expectations of us are affected by that labeling
@@ -1141,6 +1167,8 @@ When part of how we see ourselves comes from our perception of how others see us
 
 **Lowball technique**<br>
 A persuasion attempt in which the persuader promises the target something desirable, with the intention of getting the target to imagine himself or herself engaging the desired behavior, before indicating that the desirable offer is actually not possible
+
+<h2 id="m">M</h2>
 
 **Macbeth effect**<br>
 The observation that people tend to want to cleanse themselves when they perceive that they have violated their own ethical standards
@@ -1184,6 +1212,8 @@ The set of social norms that describe the principles and ideals, as well as the 
 **Moral reasoning**<br>
 The manner in which one makes ethical judgments
 
+<h2 id="n">N</h2>
+
 **Narcissism**<br>
 A personality trait characterized by overly high self-esteem, self-admiration, and self-centeredness
 
@@ -1210,6 +1240,8 @@ When the appropriate norms and roles for the group are developed
 
 **Not invented here bias**<br>
 When group members overvalue their own group’s ideas and products over those of other groups
+
+<h2 id="o">O</h2>
 
 **Observational learning**<br>
 When people learn by observing the behavior of others
@@ -1243,6 +1275,8 @@ The tendency to view members of outgroups as more similar to each other than we 
 
 **Overjustification**<br>
 The viewing of our behavior as caused by the situation, leading us to discount the extent to which our behavior was actually caused by our own interest in the activity
+
+<h2 id="p">P</h2>
 
 **Passionate love**<br>
 The kind of love that we experience when we are first getting to know a romantic partner
@@ -1352,6 +1386,8 @@ Benefits that are shared by a community at large and that everyone in the group 
 **Public self-consciousness**<br>
 The tendency to focus on our outer public image and to be particularly aware of the extent to which we are meeting the standards set by others
 
+<h2 id="r">R</h2>
+
 **Random assignment to conditions**<br>
 Determining separately for each participant which condition he or she will experience through a random process
 
@@ -1390,6 +1426,8 @@ The ability to distribute positive or negative rewards
 
 **Role stress**<br>
 When individuals experience incompatible demands and expectations within or between the roles that they occupy, which often negatively impacts their ability to be successful in those roles
+
+<h2 id="s">S</h2>
 
 **Schema**<br>
 A knowledge representation that includes information about a person, group, or situation
@@ -1583,6 +1621,8 @@ When we choose to stay in situations largely because we feel we have put too muc
 **Superordinate goals**<br>
 Goals that are very important and require the cooperative efforts and resources of more than one group to attain
 
+<h2 id="t">T</h2>
+
 **Third variables**<br>
 Variables that are not part of the research hypothesis but that cause both the predictor and the outcome variable and thus produce the observed correlation between them
 
@@ -1601,6 +1641,8 @@ Leaders who work with their subordinates to help them understand what is require
 **Transformational leaders**<br>
 Leaders who have a vision of where the group is going and attempt to stimulate and inspire their workers to move beyond their present status and to create a new and better future
 
+<h2 id="u">U</h2>
+
 **Unitary task**<br>
 A task that has to be done all at once and cannot be divided up
 
@@ -1613,11 +1655,15 @@ Those attributions that are expected to change over time
 **Upward social comparison**<br>
 When we compare ourselves with others who are better off than we are
 
+<h2 id="v">V</h2>
+
 **Verbal aggression**<br>
 Yelling, screaming, swearing, and name calling
 
 **Violence**<br>
 Aggression that has extreme physical harm, such as injury or death, as its goal
+
+<h2 id="w">W</h2>
 
 **What is beautiful is good stereotype**<br>
 The belief that external attractiveness signifies positive internal qualities
