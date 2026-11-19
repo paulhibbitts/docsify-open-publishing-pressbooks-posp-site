@@ -1,6 +1,6 @@
-# Principles of Social Psychology – Converted to Docsify-This
+# Principles of Social Psychology – Moved to Docsify-This
 
-> The Pressbooks book [Principles of Social Psychology – 1st International H5P Edition](https://opentextbc.ca/socialpsychology/), brought into Grav Open Publishing Space by the [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org), then converted to plain Markdown pages for [Docsify-This](https://docsify-this.net/#/) by the [Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org).
+> The Pressbooks book [Principles of Social Psychology – 1st International H5P Edition](https://opentextbc.ca/socialpsychology/), brought into Grav Open Publishing Space by the [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org), then moved to [Docsify-This](https://docsify-this.net/#/) as plain Markdown pages by the [Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org).
 
 View it as a website: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-posp-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&dark-mode=auto&name=Principles%20of%20Social%20Psychology
 
@@ -14,6 +14,6 @@ The original book is by Dr. Rajiv Jhangiani and Dr. Hammond Tarry, licensed unde
 - `section-14/` – Back Matter: about the authors and versioning history
 - `section-15/` – the Glossary
 
-Only the book is converted – the Grav site's other pages, such as its blog and Read Me, stay there. Images stay on Pressbooks, as in the Grav version.
+Only the book is moved – the Grav site's other pages, such as its blog and Read Me, stay there. Images stay on Pressbooks, as in the Grav version.
 
 The pages are clean Markdown, without the bridge's hidden notes. The bridge can still turn them into an Open Publishing Space book, like any Docsify site, but not exactly.
