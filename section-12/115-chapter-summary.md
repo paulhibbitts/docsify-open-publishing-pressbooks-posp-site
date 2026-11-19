@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/12.section-12/05.115-chapter-summary/section-page.md"}
-title: "11.5 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 11.5 Chapter Summary
-<!-- /grav:gen -->
 
 The social groups that are part of a given nation or society become essential parts of the culture itself. We easily develop beliefs about the characteristics of the groups and the members of those groups (stereotypes) as well as prejudice (an unjustifiable negative attitude toward an outgroup). Our stereotypes and our prejudices are problematic because they may create discrimination—unjustified negative behaviors toward members of outgroups based on their group membership. Discrimination is a societal and health problem because it is so pervasive, takes so many forms, and has such negative effects on so many people.
 

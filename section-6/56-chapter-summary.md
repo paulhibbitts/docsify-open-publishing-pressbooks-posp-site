@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/06.section-6/06.56-chapter-summary/section-page.md"}
-title: "5.6 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 5.6 Chapter Summary
-<!-- /grav:gen -->
 
 Person perception helps us make accurate and informed judgments about how other people are likely to respond to us. At the same time, we are exercising our person perception skills on other people, those same people are also using their powers of person perception to form impressions of us.
 
@@ -28,7 +22,7 @@ Causal attributions for our own behaviors have an important outcome on our menta
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3244#h5p-17)
 
-<!-- grav: [details summary="Text version of: Chapter 5 Multiple-Choice Quiz"] --><details><summary>Text version of: Chapter 5 Multiple-Choice Quiz</summary>
+<details><summary>Text version of: Chapter 5 Multiple-Choice Quiz</summary>
 
 **H5P: Test your Learning: Chapter 5 Multiple-Choice Quiz**
 
@@ -60,4 +54,4 @@ To round out your review of this chapter, try this multiple-choice quiz. You can
     3. high; high; low
     4. low; high; low
 
-</details><!-- grav: [/details] -->
+</details>

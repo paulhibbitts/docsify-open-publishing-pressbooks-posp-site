@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/02.section-2/section.md"}
-title: "Chapter 1. Introducing Social Psychology"
--->
-
-<!-- grav:gen -->
 # Chapter 1. Introducing Social Psychology
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -31,7 +24,6 @@ title: "Chapter 1. Introducing Social Psychology"
 > - Consider the role of validity in research, and describe how research programs should be evaluated.
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -55,7 +47,7 @@ title: "Chapter 1. Introducing Social Psychology"
 > Schreiber, P. (2014). *The Story of Raoul Wallenberg.* Retrieved from http://www.wallenberg.umich.edu/story.html.
 >
 
- <!-- grav: [term] -->Social psychology<!-- grav: [/term] --> *is the scientific study of how we feel about, think about, and behave toward the people around us and how our feelings, thoughts, and behaviors are influenced by those people.* As this definition suggests, the subject matter of social psychology is very broad and can be found in just about everything that we do every day. Social psychologists study why we are often helpful to other people and why we may at other times be unfriendly or aggressive. Social psychologists study both the benefits of having good relationships with other people and the costs of being lonely. Social psychologists study what factors lead people to purchase one product rather than another, how men and women behave differently in social settings, how juries work together to make important group decisions, and what makes some people more likely to recycle and engage in other environmentally friendly behaviors than others. And social psychologists also study more unusual events, such as how someone might choose to risk their life to save that of a complete stranger.
+ Social psychology *is the scientific study of how we feel about, think about, and behave toward the people around us and how our feelings, thoughts, and behaviors are influenced by those people.* As this definition suggests, the subject matter of social psychology is very broad and can be found in just about everything that we do every day. Social psychologists study why we are often helpful to other people and why we may at other times be unfriendly or aggressive. Social psychologists study both the benefits of having good relationships with other people and the costs of being lonely. Social psychologists study what factors lead people to purchase one product rather than another, how men and women behave differently in social settings, how juries work together to make important group decisions, and what makes some people more likely to recycle and engage in other environmentally friendly behaviors than others. And social psychologists also study more unusual events, such as how someone might choose to risk their life to save that of a complete stranger.
 
 The goal of this book is to help you learn to think about social behaviors in the same way that social psychologists do. We believe you will find this approach useful because it will allow you to think about human behavior more critically and more objectively and to gain insight into your own relationships with other people. Social psychologists study everyday behavior scientifically, and their research creates a useful body of knowledge about our everyday social interactions.
 

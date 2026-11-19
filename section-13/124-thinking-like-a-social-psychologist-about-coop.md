@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/13.section-13/04.124-thinking-like-a-social-psychologist-about-coop/section-page.md"}
-title: "12.4 Thinking Like a Social Psychologist about Cooperation and Competition"
--->
-
-<!-- grav:gen -->
 # 12.4 Thinking Like a Social Psychologist about Cooperation and Competition
-<!-- /grav:gen -->
 
 Now that you are familiar with the factors that lead us to cooperate or compete, we hope you will use this information to be more aware of, and to guide, your own behaviors in situations of conflict. Are you now more aware of how easy it is to assume that others will compete rather than cooperate and of how events that seem to be fixed-sum may in fact be integrative? Can you see that at least some conflict is more perceived than realistic and that cooperation is frequently more advantageous to both the self and others than is competition? Does this knowledge make you think differently about how you will want to react to situations of potential conflict?
 
@@ -14,7 +8,7 @@ You may find that you are now better able to use your social psychological knowl
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3387#h5p-24)
 
-<!-- grav: [details summary="Text version of: Chapter 12 True Or False Quiz"] --><details><summary>Text version of: Chapter 12 True Or False Quiz</summary>
+<details><summary>Text version of: Chapter 12 True Or False Quiz</summary>
 
 **H5P: Test your Learning: Chapter 12 True or False Quiz**
 
@@ -26,4 +20,4 @@ Try this true or false quiz to check your understanding of some key theories and
 4. When individuals are considering whether or not to donate to a local public television station, this is an example of a contributions dilemma.
 5. In the dual-concern model of cooperation and competition, a yielding orientation is associated with a higher concern about other’s outcomes, and a lower concern about one’s own outcomes.
 
-</details><!-- grav: [/details] -->
+</details>

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/07.section-7/04.64-thinking-like-a-social-psychologist-about-socia/section-page.md"}
-title: "6.4 Thinking Like a Social Psychologist about Social Influence"
--->
-
-<!-- grav:gen -->
 # 6.4 Thinking Like a Social Psychologist about Social Influence
-<!-- /grav:gen -->
 
 This chapter has concerned the many and varied ways that social influence pervades our everyday lives. Perhaps you were surprised about the wide variety of phenomena—ranging from the unaware imitation of others to leadership to blind obedience to authority—that involve social influence. Yet because you are thinking like a social psychologist, you will realize why social influence is such an important part of our everyday life. For example, we conform to better meet the basic goals of self-concern and other-concern. Conforming helps us do better by helping us make accurate, informed decisions. And conformity helps us be accepted by those we care about.
 

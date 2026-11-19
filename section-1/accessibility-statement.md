@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/01.section-1/01.accessibility-statement/section-page.md"}
-title: "Accessibility Statement"
--->
-
-<!-- grav:gen -->
 # Accessibility Statement
-<!-- /grav:gen -->
 
 BCcampus Open Education believes that education must be available to everyone. This means supporting the creation of free, open, and accessible educational resources. We are actively committed to increasing the accessibility and usability of the resources we produce.
 

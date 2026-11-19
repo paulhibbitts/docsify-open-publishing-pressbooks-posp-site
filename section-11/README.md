@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/11.section-11/section.md"}
-title: "Chapter 10. Working Groups: Performance and Decision Making"
--->
-
-<!-- grav:gen -->
 # Chapter 10. Working Groups: Performance and Decision Making
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -41,7 +34,6 @@ title: "Chapter 10. Working Groups: Performance and Decision Making"
 > - Outline the benefits of challenges of diversity in regards to group performance and decision making.
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -67,13 +59,12 @@ title: "Chapter 10. Working Groups: Performance and Decision Making"
 
  Although people and their worlds have changed dramatically over the course of our history, one fundamental aspect of human existence remains essentially the same. Just as our primitive ancestors lived together in small social groups of families, tribes, and clans, people today still spend a great deal of time in social groups. We go to bars and restaurants, we study together in groups, and we work together on production lines and in businesses. We form governments, play together on sports teams, and use social media to communicate with others. It seems that no matter how much our world changes, humans will always remain social creatures. It is probably not incorrect to say that the human group is the very foundation of human existence; without our interactions with each other, we would simply not be people, and there would be no human culture.
 
-We can define a <!-- grav: [term] -->social group<!-- grav: [/term] --> as *a set of individuals with a shared purpose and who normally share a positive social identity*. While social groups form the basis of human culture and productivity, they also produce some of our most profound disappointments. Groups sometimes create the very opposite of what we might hope for, such as when a group of highly intelligent advisors lead their president to make a poor decision, when a peaceful demonstration turns into a violent riot, or when the members of a clique at a high school tease other students until they become violent.
+We can define a social group as *a set of individuals with a shared purpose and who normally share a positive social identity*. While social groups form the basis of human culture and productivity, they also produce some of our most profound disappointments. Groups sometimes create the very opposite of what we might hope for, such as when a group of highly intelligent advisors lead their president to make a poor decision, when a peaceful demonstration turns into a violent riot, or when the members of a clique at a high school tease other students until they become violent.
 
 In this chapter, we will first consider how social psychologists define social groups. This definition will be important not only in this chapter, which deals with small groups working on projects or making decisions, but also in Chapter 11, “Stereotypes, Prejudice, and Discrimination,” and Chapter 12, “Competition and Cooperation in Our Social Worlds,” in which we will discuss relationships between larger social groups. In this chapter, we will also review some key lessons from social psychology about effective (and ineffective) group performance and decision making, which have important implications for business, education, politics, law, and many other areas (Kovera & Borgida, 2010; Straus, Parker, & Bruce, 2011).
 
 Taking all the data together, one psychologist once went so far as to comment that “humans would do better without groups!” (Buys, 1978, p. 123). What Buys probably meant by this comment was to acknowledge the enormous force of social groups and to point out the importance of being aware that these forces can have both positive and negative consequences (Allen & Hecht, 2004; Kozlowski & Ilgen, 2006; Larson, 2010; Nijstad, 2009). Keep this important idea in mind as you read this chapter.
 
-<!-- grav: [references] -->
 ### References
 
 Allen, N. J., & Hecht, T. D. (2004). The “romance of teams”: Toward an understanding of its psychological underpinnings and implications. *Journal of Occupational and Organizational Psychology, 77*(4), 439–461. doi: 10.1348/0963179042596469.
@@ -92,7 +83,6 @@ Nijstad, B. A. (2009). *Group performance*. New York, NY: Psychology Press.
 
 Straus, S. G., Parker, A. M., & Bruce, J. B. (2011). The group matters: A review of processes and outcomes in intelligence analysis. *Group Dynamics: Theory, Research, and Practice, 15*(2), 128–146.
 
-<!-- grav: [/references] -->
 
  ### Media Attributions
 

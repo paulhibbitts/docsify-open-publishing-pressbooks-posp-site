@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/01.section-1/02.for-students-how-to-access-and-use-this-textbook/section-page.md"}
-title: "For Students: How to Access and Use this Textbook"
--->
-
-<!-- grav:gen -->
 # For Students: How to Access and Use this Textbook
-<!-- /grav:gen -->
 
 This textbook is available in the following formats:
 

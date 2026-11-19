@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/07.section-7/03.63-person-gender-and-cultural-differences-in-confo/section-page.md"}
-title: "6.3 Person, Gender, and Cultural Differences in Conformity"
--->
-
-<!-- grav:gen -->
 # 6.3 Person, Gender, and Cultural Differences in Conformity
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -72,7 +65,7 @@ But social influence does not always produce the intended result. If we feel tha
 
 Consider an experiment conducted by Pennebaker and Sanders (1976), who attempted to get people to stop writing graffiti on the walls of campus restrooms. In some restrooms they posted a sign that read “Do not write on these walls under any circumstances!” whereas in other restrooms they placed a sign that simply said “Please don’t write on these walls.” Two weeks later, the researchers returned to the restrooms to see if the signs had made a difference. They found that there was much less graffiti in the second restroom than in the first one. It seems as if people who were given strong pressures to not engage in the behavior were more likely to react against those directives than were people who were given a weaker message.
 
-When individuals feel that their freedom is being threatened by influence attempts and yet they also have the ability to resist that persuasion, they may experience <!-- grav: [term] -->psychological reactance<!-- grav: [/term] -->, *a strong motivational state that resists social influence* (Brehm, 1966; Miron & Brehm, 2006). Reactance is aroused when our ability to choose which behaviors to engage in is eliminated or threatened with elimination. The outcome of the experience of reactance is that people may not conform or obey at all and may even move their opinions or behaviors away from the desires of the influencer.
+When individuals feel that their freedom is being threatened by influence attempts and yet they also have the ability to resist that persuasion, they may experience psychological reactance, *a strong motivational state that resists social influence* (Brehm, 1966; Miron & Brehm, 2006). Reactance is aroused when our ability to choose which behaviors to engage in is eliminated or threatened with elimination. The outcome of the experience of reactance is that people may not conform or obey at all and may even move their opinions or behaviors away from the desires of the influencer.
 
 Reactance represents a desire to restore freedom that is being threatened. A child who feels that his or her parents are forcing him to eat his asparagus may react quite vehemently with a strong refusal to touch the plate. And an adult who feels that she is being pressured by a car sales representative might feel the same way and leave the showroom entirely, resulting in the opposite of the sales rep’s intended outcome.
 
@@ -82,7 +75,6 @@ In addition to helping us understand the affective determinants of conformity an
 
 Finally, within clinical therapy, it has been argued that people sometimes are less likely to try to reduce the harmful behaviors that they engage in, such as smoking or drug abuse, when the people they care about try too hard to press them to do so (Shoham, Trost, & Rohrbaugh, 2004). One patient was recorded as having reported that his wife kept telling him that he should quit drinking, saying, “If you loved me enough, you’d give up the booze.” However, he also reported that when she gave up on him and said instead, “I don’t care what you do anymore,” he then enrolled in a treatment program (Shoham et al., 2004, p. 177).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -102,7 +94,6 @@ Finally, within clinical therapy, it has been argued that people sometimes are l
     4. Sally tried a cigarette at a party because all her friends urged her to.
     5. Phil spent over $150 on a pair of sneakers, even though he couldn’t really afford them, because his best friend had a pair.
 
-<!-- grav: [references] -->
 #### References
 
 Bartol, K. M., & Martin, D. C. (1986). Women and men in task groups. In R. D. Ashmore & F. K. Del Boca (Eds.), *The social psychology of female-male relations*. New York, NY: Academic Press.
@@ -177,4 +168,3 @@ Wood, W. (1987). A meta-analytic review of sex differences in group performance.
 
 World Economic Forum. (2013). *The global gender gap report 2013*. Retrieved from http://reports.weforum.org/global-gender-gap-report-2013/
 
-<!-- grav: [/references] -->

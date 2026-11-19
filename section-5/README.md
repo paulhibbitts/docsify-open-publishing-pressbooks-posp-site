@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/05.section-5/section.md"}
-title: "Chapter 4. Attitudes, Behavior, and Persuasion"
--->
-
-<!-- grav:gen -->
 # Chapter 4. Attitudes, Behavior, and Persuasion
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -28,7 +21,6 @@ title: "Chapter 4. Attitudes, Behavior, and Persuasion"
 > - Outline the principles of cognitive dissonance and explain how they can account for the influences of behavior on attitude.
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -62,11 +54,9 @@ Because the ABCs of social psychology tend to be consistent, persuasive appeals 
 
 But attitude consistency works in the other direction too, such that when our behaviors change, our thoughts and beliefs about the attitude object may also change. Once we buy a product, we will find even more things to like about it, and our attitudes toward the company behind the product will become even more positive. Although this possibility is less intuitive and therefore may seem more surprising, it also follows from the basic consistencies among affect, cognition, and behavior. We will discuss two theories—*self-perception theory* and *cognitive dissonance theory*—each of which makes this prediction but for different reasons.
 
-<!-- grav: [references] -->
 ### References
 
 Banaji, M. R., & Heiphetz, L. (2010). Attitudes. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 1, pp. 353–393). Hoboken, NJ: John Wiley & Sons.
 
 Kruglanski, A. W., & Stroebe, W. (2005). The influence of beliefs and goals on attitudes: Issues of structure, function, and dynamics. In D. Albarracín, B. T. Johnson, & M. P. Zanna (Eds.), *The handbook of attitudes* (pp. 323–368). Mahwah, NJ: Lawrence Erlbaum.
 
-<!-- grav: [/references] -->

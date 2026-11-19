@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/09.section-9/section.md"}
-title: "Chapter 8. Helping and Altruism"
--->
-
-<!-- grav:gen -->
 # Chapter 8. Helping and Altruism
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -34,7 +27,6 @@ title: "Chapter 8. Helping and Altruism"
 > - Outline the ways that we might be able to increase helping.
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

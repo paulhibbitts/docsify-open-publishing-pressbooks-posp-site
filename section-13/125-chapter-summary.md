@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/13.section-13/05.125-chapter-summary/section-page.md"}
-title: "12.5 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 12.5 Chapter Summary
-<!-- /grav:gen -->
 
 This chapter has examined how goals of self-concern and other-concern relate to our tendencies to cooperate or compete with others and how these individual goals can help us understand the behavior of large groups of people, such as nations, societies, and cultures. Most generally, we can say that when individuals or groups interact, they can take either cooperative or competitive positions. Competition frequently leads to conflict, in which the parties involved engage in violence and hostility. Although competition is normal and will always be a part of human existence, cooperation is also built into the human repertoire.
 
@@ -28,7 +22,7 @@ Learning about the nature of cooperation and competition may help you think more
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3389#h5p-25)
 
-<!-- grav: [details summary="Text version of: Chapter 12 Multiple-Choice Quiz"] --><details><summary>Text version of: Chapter 12 Multiple-Choice Quiz</summary>
+<details><summary>Text version of: Chapter 12 Multiple-Choice Quiz</summary>
 
 **H5P: Test your Learning: Chapter 12 Multiple-Choice Quiz**
 
@@ -60,4 +54,4 @@ To check your understanding of some key material from our final chapter together
     3. inefficiency
     4. procedural justice
 
-</details><!-- grav: [/details] -->
+</details>

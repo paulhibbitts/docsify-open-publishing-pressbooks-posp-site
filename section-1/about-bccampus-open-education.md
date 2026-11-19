@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/01.section-1/03.about-bccampus-open-education/section-page.md"}
-title: "About BCcampus Open Education"
--->
-
-<!-- grav:gen -->
 # About BCcampus Open Education
-<!-- /grav:gen -->
 
 *[Principles of Social Psychology – 1st International H5P Edition](https://opentextbc.ca/socialpsychology/)* by was funded by BCcampus Open Education.
 

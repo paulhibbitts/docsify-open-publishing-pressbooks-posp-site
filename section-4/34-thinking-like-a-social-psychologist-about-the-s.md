@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/04.section-4/04.34-thinking-like-a-social-psychologist-about-the-s/section-page.md"}
-title: "3.4 Thinking Like a Social Psychologist about the Self"
--->
-
-<!-- grav:gen -->
 # 3.4 Thinking Like a Social Psychologist about the Self
-<!-- /grav:gen -->
 
 Social psychologists think about the self in the same way that they think about any other social phenomenon—in terms of affect, behavior, and cognition, and in terms of the person-situation interaction. Our focus in this chapter has been on the cognitive, affective, and social aspects of the self and on the remarkable extent to which the self is created by the social situation in which we find ourselves.
 
@@ -22,7 +16,7 @@ In sum, the self is the fundamental part of human psychology and will form the b
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3197#h5p-12)
 
-<!-- grav: [details summary="Text version of: Chapter 3 True Or False Quiz"] --><details><summary>Text version of: Chapter 3 True Or False Quiz</summary>
+<details><summary>Text version of: Chapter 3 True Or False Quiz</summary>
 
 **H5P: Test your Learning: Chapter 3 True or False Quiz**
 
@@ -34,4 +28,4 @@ How well do you now understand the topic of the self? One way to find out is to 
 4. The self-presentational strategy where we try to make others like us is called self-promotion.
 5. Having higher rather than lower levels of self-esteem causes more positive outcomes.
 
-</details><!-- grav: [/details] -->
+</details>

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/05.section-5/04.44-thinking-like-a-social-psychologist-about-attit/section-page.md"}
-title: "4.4 Thinking Like a Social Psychologist about Attitudes, Behavior, and Persuasion"
--->
-
-<!-- grav:gen -->
 # 4.4 Thinking Like a Social Psychologist about Attitudes, Behavior, and Persuasion
-<!-- /grav:gen -->
 
 Now that we have discussed the concept of attitudes more fully, we hope you can better understand how they fit into the bigger picture of social psychology. Attitudes are central because they provide an organizing principle that helps us understand when and how our beliefs, feelings, and behaviors work together. We hope you can now see some of the many ways that your attitudes toward people, social groups, products, and many other objects help you make sense of your environment and react quickly to it.
 

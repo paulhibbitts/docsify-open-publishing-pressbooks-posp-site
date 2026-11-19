@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/12.section-12/section.md"}
-title: "Chapter 11. Stereotypes, Prejudice, and Discrimination"
--->
-
-<!-- grav:gen -->
 # Chapter 11. Stereotypes, Prejudice, and Discrimination
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -23,7 +16,6 @@ title: "Chapter 11. Stereotypes, Prejudice, and Discrimination"
 >     - Summarize the conditions under which intergroup contact does or does not reduce prejudice and discrimination.
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -53,7 +45,7 @@ title: "Chapter 11. Stereotypes, Prejudice, and Discrimination"
 
  Contemporary increases in globalization and immigration are leading to more culturally diverse populations in many countries. These changes will create many benefits for society and for the individuals within it. Gender, cultural, sexual orientation, and ethnic diversity can improve creativity and group performance, facilitate new ways of looking at problems, and allow multiple viewpoints on decisions (Cunningham, 2011; Mannix & Neale, 2005; van Knippenberg & Schippers, 2007). On the other hand, as we have seen in many places in this book, perceived similarity is an extremely important determinant of liking. Members of culturally diverse groups may be less attracted to each other than are members of more homogeneous groups, may have more difficulty communicating with each other, and in some cases may actively dislike and even engage in aggressive behavior toward each other.
 
-The principles of social psychology, including the ABCs—affect, behavior, and cognition—apply to the study of stereotyping, prejudice, and discrimination, and social psychologists have expended substantial research efforts studying these concepts (Figure 11.2). The cognitive component in our perceptions of group members is the <!-- grav: [term] -->stereotype<!-- grav: [/term] -->—*the positive or negative beliefs that we hold about the characteristics of social group.* We may decide that “French people are romantic,” that “old people are incompetent,” or that “college professors are absent minded.” And we may use those beliefs to guide our actions toward people from those groups. In addition to our stereotypes, we may also develop <!-- grav: [term] -->prejudice<!-- grav: [/term] -->—*an unjustifiable negative attitude toward an outgroup or toward the members of that outgroup*. Prejudice can take the form of disliking, anger, fear, disgust, discomfort, and even hatred—the kind of affective states that can lead to behavior such as the gay bashing you just read about. Our stereotypes and our prejudices are problematic because they may create <!-- grav: [term] -->discrimination<!-- grav: [/term] -->—*unjustified negative behaviors toward members of outgroups based on their group membership*.
+The principles of social psychology, including the ABCs—affect, behavior, and cognition—apply to the study of stereotyping, prejudice, and discrimination, and social psychologists have expended substantial research efforts studying these concepts (Figure 11.2). The cognitive component in our perceptions of group members is the stereotype—*the positive or negative beliefs that we hold about the characteristics of social group.* We may decide that “French people are romantic,” that “old people are incompetent,” or that “college professors are absent minded.” And we may use those beliefs to guide our actions toward people from those groups. In addition to our stereotypes, we may also develop prejudice—*an unjustifiable negative attitude toward an outgroup or toward the members of that outgroup*. Prejudice can take the form of disliking, anger, fear, disgust, discomfort, and even hatred—the kind of affective states that can lead to behavior such as the gay bashing you just read about. Our stereotypes and our prejudices are problematic because they may create discrimination—*unjustified negative behaviors toward members of outgroups based on their group membership*.
 
 Although violence against members of outgroups is fortunately rare, stereotypes, prejudice, and discrimination nevertheless influence people’s lives in a variety of ways. Stereotypes influence our academic performance (Shapiro & Neuberg, 2007), the careers that we chose to follow (Zhang, Schmader, & Forbes, 2009), our experiences at work (Fiske & Lee, 2008), and the amount that we are paid for the work that we do (Jackson, 2011; Wood & Eagly, 2010).
 
@@ -62,7 +54,7 @@ Although violence against members of outgroups is fortunately rare, stereotypes,
 <figcaption>Figure 11.2 Relationships among social groups are influenced by the ABCs of social psychology.</figcaption>
 </figure>
 
- Stereotypes and prejudice have a pervasive and often pernicious influence on our responses to others, and also in some cases on our own behaviors. To take one example, social psychological research has found that our stereotypes may in some cases lead to <!-- grav: [term] -->stereotype threat<!-- grav: [/term] -->—*performance decrements that are caused by the knowledge of cultural stereotypes*. Spencer, Steele, and Quinn (1999) found that when women were reminded of the (untrue) stereotype that “women are poor at math,” they performed more poorly on math tests than when they were not reminded of the stereotype, and other research has found stereotype threat in many other domains as well. We’ll consider the role of stereotype threat in more detail later in this chapter.
+ Stereotypes and prejudice have a pervasive and often pernicious influence on our responses to others, and also in some cases on our own behaviors. To take one example, social psychological research has found that our stereotypes may in some cases lead to stereotype threat—*performance decrements that are caused by the knowledge of cultural stereotypes*. Spencer, Steele, and Quinn (1999) found that when women were reminded of the (untrue) stereotype that “women are poor at math,” they performed more poorly on math tests than when they were not reminded of the stereotype, and other research has found stereotype threat in many other domains as well. We’ll consider the role of stereotype threat in more detail later in this chapter.
 
 In one particularly disturbing line of research about the influence of prejudice on behaviors, Joshua Correll and his colleagues had White participants participate in an experiment in which they viewed photographs of White and Black people on a computer screen. Across the experiment, the photographs showed the people holding either a gun or something harmless such as a cell phone. The participants were asked to decide as quickly as possible to press a button to “shoot” if the target held a weapon but to “not shoot” if the person did not hold a weapon. Overall, the White participants tended to shoot more often when the person holding the object was Black than when the person holding the object was White, and this occurred even when there was no weapon present (Correll, Park, Judd, & Wittenbrink, 2007; Correll et al., 2007).
 
@@ -77,7 +69,6 @@ In this chapter, we will study the processes by which we develop, maintain, and 
 <figcaption>Figure 11.3 Do you have stereotypes about any of these people?</figcaption>
 </figure>
 
-<!-- grav: [references] -->
 ### References
 
 Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2007). The influence of stereotypes on decisions to shoot. *European Journal of Social Psychology, 37*(6), 1102–1117.
@@ -104,7 +95,6 @@ Wood, W., & Eagly, A. H. (2010). Gender. In S. T. Fiske, D. T. Gilbert, & G. Lin
 
 Zhang, S., Schmader, T., & Forbes, C. (2009). The effects of gender stereotypes on women’s career choice: Opening the glass door. In M. Barreto, M. K. Ryan, & M. T. Schmitt (Eds.), *The glass ceiling in the 21st century: Understanding barriers to gender equality* (pp. 125–150).
 
-<!-- grav: [/references] -->
 
  ### Media Attributions
 

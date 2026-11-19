@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/10.section-10/04.94-personal-and-cultural-influences-on-aggression/section-page.md"}
-title: "9.4 Personal and Cultural Influences on Aggression"
--->
-
-<!-- grav:gen -->
 # 9.4 Personal and Cultural Influences on Aggression
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -58,7 +51,6 @@ When children enter a violent culture such as that of the United States, they ma
 
 In addition to differences across cultures, there are also regional differences in the incidences of violence—for example, in different parts of the United States. The Research Focus below describes one of these differences—variations in *a social norm that condones and even encourages responding to insults with aggression*, known as the **culture of honor**.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -110,7 +102,6 @@ We must also work to improve the situation in which children find themselves. Ch
 
 And we must help people find alternatives to violence by encouraging them to think about others more positively rather than as threats to their own status and self-worth. If we can increase other-concern, for instance, by helping children learn to better communicate with each other, and at the same time increase people’s positive feelings about themselves, we will create more positive social situations that reduce violence and aggression.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -126,7 +117,6 @@ And we must help people find alternatives to violence by encouraging them to thi
 2. Consider a case in which you or someone you know is frustrated, angry, or experiencing other emotions that may lead to aggressive behavior. What techniques might you use to prevent the aggression from occurring?
 3. Create a print, web, or video advertisement that conveys information that would help students learn to be less aggressive.
 
-<!-- grav: [references] -->
 #### References
 
 Anderson, C. A. (1997). Effects of violent movies and trait hostility on hostile feelings and aggressive thoughts. *Aggressive Behavior, 23*(3), 161–178.
@@ -195,4 +185,3 @@ Souweidane, V., & Huesmann, L. R. (1999). The influence of American urban cultur
 
 Zigler, E., Taussig, C., & Black, K. (1992). Early childhood intervention: A promising preventative for juvenile delinquency. *American Psychologist, 47*(8), 997–1006.
 
-<!-- grav: [/references] -->

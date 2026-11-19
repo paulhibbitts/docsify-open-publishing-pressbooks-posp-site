@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/04.section-4/section.md"}
-title: "Chapter 3. The Self"
--->
-
-<!-- grav:gen -->
 # Chapter 3. The Self
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -39,7 +32,6 @@ title: "Chapter 3. The Self"
 > - Discuss the individual-difference variable of self-monitoring and how it relates to the ability and desire to self-present.
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -61,11 +53,10 @@ title: "Chapter 3. The Self"
 > Source: [Social, Digital, and Mobile Worldwide in 2014](https://www.socialmediatoday.com/content/social-digital-and-mobile-worldwide-2014).
 >
 
- At the foundation of all human behavior is the <!-- grav: [term] -->self<!-- grav: [/term] -->—*our sense of personal identity and of who we are as individuals*. Because an understanding of the self is so important, it has been studied for many years by psychologists (James, 1890; Mead, 1934) and is still one of the most important and most researched topics in social psychology (Dweck & Grant, 2008; Taylor & Sherman, 2008). Social psychologists conceptualize the self using the basic principles of social psychology—that is, the relationship between individual persons and the people around them (the person-situation interaction) and the ABCs of social psychology—the affective, behavioral, and cognitive components of the self.
+ At the foundation of all human behavior is the self—*our sense of personal identity and of who we are as individuals*. Because an understanding of the self is so important, it has been studied for many years by psychologists (James, 1890; Mead, 1934) and is still one of the most important and most researched topics in social psychology (Dweck & Grant, 2008; Taylor & Sherman, 2008). Social psychologists conceptualize the self using the basic principles of social psychology—that is, the relationship between individual persons and the people around them (the person-situation interaction) and the ABCs of social psychology—the affective, behavioral, and cognitive components of the self.
 
 In this chapter, we will first consider the cognitive aspects of the self, including the self-concept (the thoughts that we hold about ourselves) and self-awareness (the extent to which we are currently fixing our attention on our own self-concept). Then we will move on to the role of affect, focusing on concepts including self-esteem (the positive or negative feelings that we have about ourselves) and the many ways that we try to gain positive self-esteem. Finally, we will consider the social aspects of the self, including how we present ourselves to others in order to portray a positive self-image, as well as the many ways that our thoughts and feelings about ourselves are determined by our relationships with others.
 
-<!-- grav: [references] -->
 ### References
 
 Dweck, C. S., & Grant, H. (2008). Self-theories, goals, and meaning. In J. Y. Shah, W. L. Gardner, J. Y. E. Shah, & W. L. E. Gardner (Eds.), *Handbook of motivation science* (pp. 405–416). New York, NY: Guilford Press.
@@ -76,7 +67,6 @@ Mead, G. H. (1934). *Mind, Self, and Society from the Standpoint of a Social Beh
 
 Taylor, S. E., & Sherman, D. K. (2008). Self-enhancement and self-affirmation: The consequences of positive self-thoughts for motivation and health. In J. Y. Shah, W. L. Gardner, J. Y. E. Shah, & W. L. E. Gardner (Eds.), *Handbook of motivation science* (pp. 57–70). New York, NY: Guilford Press.
 
-<!-- grav: [/references] -->
 
  ### Media Attributions
 

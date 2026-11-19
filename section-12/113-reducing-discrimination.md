@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/12.section-12/03.113-reducing-discrimination/section-page.md"}
-title: "11.3 Reducing Discrimination"
--->
-
-<!-- grav:gen -->
 # 11.3 Reducing Discrimination
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -51,7 +44,7 @@ As this study concluded, taking steps to reduce prejudice is everyone’s duty�
 
 One of the reasons that people may hold stereotypes and prejudices is that they view the members of outgroups as different from them. We may become concerned that our interactions with people from different racial groups will be unpleasant, and these anxieties may lead us to avoid interacting with people from those groups (Mallett, Wilson, & Gilbert, 2008). What this suggests is that a good way to reduce prejudice is to help people create closer connections with members of different groups. People will be more favorable toward others when they learn to see those other people as more similar to them, as closer to the self, and to be more concerned about them.
 
-*The idea that intergroup contact will reduce prejudice*, known as the <!-- grav: [term] -->contact hypothesis<!-- grav: [/term] -->, is simple: If children from different ethnic groups play together in school, their attitudes toward each other should improve. And if we encourage college students to travel abroad, they will meet people from other cultures and become more positive toward them.
+*The idea that intergroup contact will reduce prejudice*, known as the contact hypothesis, is simple: If children from different ethnic groups play together in school, their attitudes toward each other should improve. And if we encourage college students to travel abroad, they will meet people from other cultures and become more positive toward them.
 
 One important example of the use of intergroup contact to influence prejudice came about as a result of the important U.S. Supreme Court case *Brown v. Board of Education* in 1954. In this case, the U.S. Supreme Court agreed, based in large part on the testimony of psychologists, that busing Black children to schools attended primarily by White children, and vice versa, would produce positive outcomes on intergroup attitudes, not only because it would provide Black children with access to better schools, but also because the resulting intergroup contact would reduce prejudice between Black and White children. This strategy seemed particularly appropriate at the time it was implemented because most schools in the United States then were highly segregated by race.
 
@@ -67,15 +60,14 @@ When we first meet someone from another category, we are likely to rely almost e
 
 When we get past group memberships and focus more on the individuals in the groups, we begin to see that there is a great deal of variability among the group members and that our global and undifferentiating group stereotypes are actually not that informative (Rothbart & John, 1985). Successful intergroup contact tends to reduce the perception of outgroup homogeneity. Contact also helps us feel more positively about the members of the other group, and this positive affect makes us like them more.
 
-Intergroup contact is also more successful when the people involved in the contact are motivated to learn about the others. One factor that increases this motivation is <!-- grav: [term] -->interdependence<!-- grav: [/term] -->—*a state in which the group members depend on each other for successful performance of the group goals* (Neuberg & Fiske, 1987). The importance of interdependence can be seen in the success of cooperative learning techniques, such as the jigsaw classroom (Aronson, Blaney, Stephan, Sikes, & Snapp, 1978; Aronson, 2004).
+Intergroup contact is also more successful when the people involved in the contact are motivated to learn about the others. One factor that increases this motivation is interdependence—*a state in which the group members depend on each other for successful performance of the group goals* (Neuberg & Fiske, 1987). The importance of interdependence can be seen in the success of cooperative learning techniques, such as the jigsaw classroom (Aronson, Blaney, Stephan, Sikes, & Snapp, 1978; Aronson, 2004).
 
-The <!-- grav: [term] -->jigsaw classroom<!-- grav: [/term] --> is an approach *to learning in which students from different racial or ethnic groups work together, in an interdependent way, to master material*. The class is divided into small learning groups, where each group is diverse in ethnic and gender composition. The assigned material to be learned is divided into as many parts as there are students in the group, and members of different groups who are assigned the same task meet together to help develop a strong report. Each student then learns his or her own part of the material and presents this piece of the puzzle to the other members of his or her group. The students in each group are therefore interdependent in learning all the material. A wide variety of techniques, based on principles of the jigsaw classroom, are in use in many schools around the world, and research studying these approaches has found that cooperative, interdependent experiences among students from different social groups are effective in reducing negative stereotyping and prejudice (Stephan, 1999).
+The jigsaw classroom is an approach *to learning in which students from different racial or ethnic groups work together, in an interdependent way, to master material*. The class is divided into small learning groups, where each group is diverse in ethnic and gender composition. The assigned material to be learned is divided into as many parts as there are students in the group, and members of different groups who are assigned the same task meet together to help develop a strong report. Each student then learns his or her own part of the material and presents this piece of the puzzle to the other members of his or her group. The students in each group are therefore interdependent in learning all the material. A wide variety of techniques, based on principles of the jigsaw classroom, are in use in many schools around the world, and research studying these approaches has found that cooperative, interdependent experiences among students from different social groups are effective in reducing negative stereotyping and prejudice (Stephan, 1999).
 
 In sum, we can say that contact will be most effective when it is easier to get to know, and become more respectful of, the members of the other group and when the social norms of the situation promote equal, fair treatment of all groups. If the groups are treated unequally, for instance, by a teacher or leader who is prejudiced and who therefore treats the different groups differently, or if the groups are in competition rather than cooperation, there will be no benefit. In cases when these conditions are not met, contact may not be effective and may in fact increase prejudice, particularly when it confirms stereotypical expectations (Stangor, Jonas, Stroebe, & Hewstone, 1996). Finally, it is important that enough time be allowed for the changes to take effect. In the case of busing in the United States, for instance, the positive effects of contact seemed to have been occurring, but they were not happening particularly fast.
 
-Let’s consider (in the following Research Focus) still another way that intergroup contact can reduce prejudice—*the idea that prejudice can be reduced for people who have friends who are friends with members of the outgroup*, known as the <!-- grav: [term] -->extended-contact hypothesis<!-- grav: [/term] -->.
+Let’s consider (in the following Research Focus) still another way that intergroup contact can reduce prejudice—*the idea that prejudice can be reduced for people who have friends who are friends with members of the outgroup*, known as the extended-contact hypothesis.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -107,9 +99,9 @@ During the first week of the camp, the boys were divided into two groups that ca
 
 At the end of this one-week baseline period, it was arranged that the two groups of boys would become aware of each other’s presence. Furthermore, the researchers worked to create conditions that led to increases in each group’s social identity and at the same time created negative perceptions of the other group. The researchers arranged baseball games, a tug-of-war, and a treasure hunt and offered prizes for the group that won the competitions. Almost immediately, this competition created ingroup favoritism and prejudice, and discrimination quickly followed. By the end of the second week, the Eagles had sneaked up to the Rattlers’ cabin and stolen their flag. When the Rattlers discovered the theft, they in turn raided the Eagles’ cabin, stealing things. There were food fights in the dining room, which was now shared by the groups, and the researchers documented a substantial increase in name-calling and stereotypes of the outgroup. Some fistfights even erupted between members of the different groups.
 
-The researchers then intervened by trying to move the groups closer to each other. They began this third stage of the research by setting up a series of situations in which the boys had to work together to solve a problem. These situations were designed to create interdependence by presenting the boys with <!-- grav: [term] -->superordinate goals<!-- grav: [/term] -->—*goals that were both very important to them and yet that required the cooperative efforts and resources of both the Eagles and the Rattlers to attain.* These goals involved such things as the need to pool money across both groups in order to rent a movie that all the campers wanted to view, or the need to pull together on ropes to get a food truck that had become stuck back onto the road. As the children worked together to meet these goals, the negative perceptions of the group members gradually improved; there was a reduction of hostility between the groups and an emergence of more positive intergroup attitudes.
+The researchers then intervened by trying to move the groups closer to each other. They began this third stage of the research by setting up a series of situations in which the boys had to work together to solve a problem. These situations were designed to create interdependence by presenting the boys with superordinate goals—*goals that were both very important to them and yet that required the cooperative efforts and resources of both the Eagles and the Rattlers to attain.* These goals involved such things as the need to pool money across both groups in order to rent a movie that all the campers wanted to view, or the need to pull together on ropes to get a food truck that had become stuck back onto the road. As the children worked together to meet these goals, the negative perceptions of the group members gradually improved; there was a reduction of hostility between the groups and an emergence of more positive intergroup attitudes.
 
-This strategy was effective because it led the campers to perceive both the ingroup and the outgroup as one large group (“we”) rather than as two separate groups (“us” and “them”). As differentiation between the ingroup and the outgroup decreases, so should ingroup favoritism, prejudice, and conflict. The differences between the original groups are still present, but they are potentially counteracted by perceived similarities in the second superordinate group. *The attempt to reduce prejudice by creating a superordinate categorization* is known as the goal of creating a <!-- grav: [term] -->common ingroup identity<!-- grav: [/term] -->(Gaertner & Dovidio, 2008), and we can diagram the relationship as follows:
+This strategy was effective because it led the campers to perceive both the ingroup and the outgroup as one large group (“we”) rather than as two separate groups (“us” and “them”). As differentiation between the ingroup and the outgroup decreases, so should ingroup favoritism, prejudice, and conflict. The differences between the original groups are still present, but they are potentially counteracted by perceived similarities in the second superordinate group. *The attempt to reduce prejudice by creating a superordinate categorization* is known as the goal of creating a common ingroup identity(Gaertner & Dovidio, 2008), and we can diagram the relationship as follows:
 
 interdependence and cooperation → common ingroup identity → favorable intergroup attitudes.
 
@@ -128,7 +120,6 @@ But the benefits of recategorization are not confined to laboratory settings—t
 
 Again, the implications of these results are clear and powerful. If we want to improve attitudes among people, we must get them to see each other as more similar and less different. And even relatively simple ways of doing so, such as wearing a hat that suggests an ingroup identification, can be successful.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -145,7 +136,6 @@ Again, the implications of these results are clear and powerful. If we want to i
 2. Have you ever confronted or failed to confront a person who you thought was expressing prejudice or discriminating? Why did you confront (or not confront) that person, and how did doing so make you feel?
 3. Imagine you are a teacher in a classroom and you see that some children expressing prejudice or discrimination toward other children on the basis of their race. What techniques would you use to attempt to reduce these negative behaviors?
 
-<!-- grav: [references] -->
 #### References
 
 Aronson, E. (2004). Reducing hostility and building compassion: Lessons from the jigsaw classroom. In A. G. Miller (Ed.), *The social psychology of good and evil* (pp. 469–488). New York, NY: Guilford Press.
@@ -228,4 +218,3 @@ Williams, D. R. (1999). Race, socioeconomics status, and health: The added effec
 
 Wright, S. C., Aron, A., McLaughlin-Volpe, T., & Ropp, S. A. (1997). The extended contact effect: Knowledge of cross-group friendships and prejudice. *Journal of Personality and Social Psychology, 73*(1), 73–90.
 
-<!-- grav: [/references] -->

@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/07.section-7/section.md"}
-title: "Chapter 6. Influencing and Conforming"
--->
-
-<!-- grav:gen -->
 # Chapter 6. Influencing and Conforming
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -30,7 +23,6 @@ title: "Chapter 6. Influencing and Conforming"
 > - Explain the concept of psychological reactance and describe how and when it might occur.
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -56,17 +48,16 @@ title: "Chapter 6. Influencing and Conforming"
 
  Have you ever decided what courses to take by asking for advice from your friends or by observing what courses they were choosing? Have you picked the clothes to wear to a party based on what your friends were wearing? Can you think of a time when you changed your beliefs or behaviors because a person in authority, such as a teacher or a religious or political leader, gave you ideas about new ways to think or new things to do? Or perhaps you started smoking cigarettes or drinking alcohol, even though you didn’t really want to, because some of your friends were doing it.
 
-Your answers to at least some of these questions will be yes because you, like all people, are influenced by those around you. When you find yourself in situations like these, you are experiencing what is perhaps the most basic of all social psychological processes—<!-- grav: [term] -->social influence<!-- grav: [/term] -->, defined as *the influence of other people on our everyday thoughts, feelings, and behavior* (Hogg, 2010).
+Your answers to at least some of these questions will be yes because you, like all people, are influenced by those around you. When you find yourself in situations like these, you are experiencing what is perhaps the most basic of all social psychological processes—social influence, defined as *the influence of other people on our everyday thoughts, feelings, and behavior* (Hogg, 2010).
 
-This chapter focuses on the social influence that leads individuals, sometimes against their will, to adopt and adhere to the opinions and behaviors of others. The outcome of this social influence, known as <!-- grav: [term] -->conformity<!-- grav: [/term] -->, refers to *the change in beliefs, opinions, and behaviors as a result of our perceptions about what other people believe or do*. We conform to social influence in part to meet cognitive goals of forming accurate knowledge about the world around us, for instance, by using the opinions and recommendations of others to help us make better decisions. But conformity also involves affective processes. Because we want to be liked and accepted by others, we may sometimes behave in ways that we might not really have wanted to if we had thought about them more carefully. As an example, we may we engage in unhealthy behaviors, such as smoking or alcohol abuse, simply because our friends are engaging in them.
+This chapter focuses on the social influence that leads individuals, sometimes against their will, to adopt and adhere to the opinions and behaviors of others. The outcome of this social influence, known as conformity, refers to *the change in beliefs, opinions, and behaviors as a result of our perceptions about what other people believe or do*. We conform to social influence in part to meet cognitive goals of forming accurate knowledge about the world around us, for instance, by using the opinions and recommendations of others to help us make better decisions. But conformity also involves affective processes. Because we want to be liked and accepted by others, we may sometimes behave in ways that we might not really have wanted to if we had thought about them more carefully. As an example, we may we engage in unhealthy behaviors, such as smoking or alcohol abuse, simply because our friends are engaging in them.
 
-There are many types of conformity, ranging from the simple and unconscious imitation of the other people around us to the *obedience* created by powerful people who have direct control over us. In this chapter, we will consider both conformity and <!-- grav: [term] -->leadership<!-- grav: [/term] -->, which is *the ability to direct or inspire others to achieve goals.* We’ll look at the potential benefits of conforming to others but also consider the costs of doing so. And we will also consider which people are most likely to conform.
+There are many types of conformity, ranging from the simple and unconscious imitation of the other people around us to the *obedience* created by powerful people who have direct control over us. In this chapter, we will consider both conformity and leadership, which is *the ability to direct or inspire others to achieve goals.* We’ll look at the potential benefits of conforming to others but also consider the costs of doing so. And we will also consider which people are most likely to conform.
 
 Although conformity sounds like it might be a negative thing (and in some cases it is), overall the tendency to be influenced by the actions of others is an important human adaptation. Just as birds conform to the movements of those around them when they fly together in a flock, social influence among humans probably increases our fitness by helping us live and work well together (Coultas, 2004; Fincher, Thornhill, Murray, & Schaller, 2008; Henrich & Boyd, 1998; Kessler & Cohrs, 2008). Conformity is determined by the person-situation interaction, and although the situation is extremely powerful, different people are more or less likely to conform.
 
 As you read this chapter, keep in mind that conformity is another example of the ongoing interactive dynamic among people. Just as you are conforming to the influence that others have on you, your behavior is also influencing those others to conform to your beliefs and opinions. You may be surprised by how often these influences are occurring around you.
 
-<!-- grav: [references] -->
 ### References
 
 Coultas, J. (2004). When in Rome…An evolutionary perspective on conformity. *Group Processes and Intergroup Relations, 7*, 317–331;
@@ -79,7 +70,6 @@ Hogg, M. A. (2010). Influence and leadership. In S. F. Fiske, D. T. Gilbert, & G
 
 Kessler, T., & Cohrs, J. C. (2008). The evolution of authoritarian processes: Fostering cooperation in large-scale groups. *Group Dynamics: Theory, Research, and Practice, 12*, 73–84.
 
-<!-- grav: [/references] -->
 
  ### Media Attributions
 

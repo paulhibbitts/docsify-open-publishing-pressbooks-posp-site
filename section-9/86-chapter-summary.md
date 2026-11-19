@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/09.section-9/06.86-chapter-summary/section-page.md"}
-title: "8.6 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 8.6 Chapter Summary
-<!-- /grav:gen -->
 
 Altruism refers to any behavior that is designed to increase another person’s welfare, and particularly those actions that do not seem to provide a direct reward to the person who performs them. Every day numerous acts of altruism occur all around us. People give up substantial time and energy to help others.
 

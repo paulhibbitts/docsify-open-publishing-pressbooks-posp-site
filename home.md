@@ -1,18 +1,3 @@
-<!-- grav: {"file":"01.principles-of-social-2026/section-list.md","images":["OTB025-03-Principles-of-Social-Psychology-1st-International-H5P-Edition-STORE-768x994.jpg"]}
-title: "Principles of Social Psychology - 1st International H5P Edition"
-menu: "Principles of Social Psychology"
-cover_image: OTB025-03-Principles-of-Social-Psychology-1st-International-H5P-Edition-STORE-768x994.jpg
-cover_image_layout: small
-authors: "Dr. Rajiv Jhangiani and Dr. Hammond Tarry"
-show_oer_attribution: true
-license: "CC BY-NC-SA 4.0"
-license_url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-section_label: Chapter
-show_section_label: false
-attribution_text: "Principles of Social Psychology - 1st International H5P Edition by Dr. Rajiv Jhangiani and Dr. Hammond Tarry © 2022 is licensed under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC BY-NC-SA 4.0</a>."
--->
-
-<!-- grav:gen -->
 <div class="guide-cover guide-cover-portrait">
 
 ![Principles of Social Psychology - 1st International H5P Edition cover](OTB025-03-Principles-of-Social-Psychology-1st-International-H5P-Edition-STORE-768x994.jpg ":no-zoom")
@@ -30,9 +15,7 @@ Dr. Rajiv Jhangiani and Dr. Hammond Tarry
 </div>
 
 </div>
-<!-- /grav:gen -->
 
-<!-- grav: [announcement title="Principles of Social Psychology - 1st International H5P Edition — Imported from Pressbooks"] -->
 > [!IMPORTANT]
 > **Principles of Social Psychology - 1st International H5P Edition — Imported from Pressbooks**
 >
@@ -46,7 +29,6 @@ Dr. Rajiv Jhangiani and Dr. Hammond Tarry
 
 The first international edition of this textbook provides students with an introduction to the basic concepts and principles of social psychology from an interactionist perspective. The presentation of classic studies and theories are balanced with insights from cutting-edge, contemporary research. An emphasis on real world examples and applications is intended to guide students to critically analyze their situations and social interactions in order to put their knowledge to effective use. In 2022, 25 interactive H5P activities were added throughout the book.
 
-<!-- grav:gen -->
 <div class="card-list-rows">
 
 <div class="card">
@@ -146,11 +128,8 @@ Terms used in this book.
 </div>
 
 </div>
-<!-- /grav:gen -->
 
-<!-- grav:gen -->
 Principles of Social Psychology - 1st International H5P Edition by Dr. Rajiv Jhangiani and Dr. Hammond Tarry © 2022 is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
-<!-- /grav:gen -->

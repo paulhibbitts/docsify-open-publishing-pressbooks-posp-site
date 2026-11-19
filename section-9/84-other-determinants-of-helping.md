@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/09.section-9/04.84-other-determinants-of-helping/section-page.md"}
-title: "8.4 Other Determinants of Helping"
--->
-
-<!-- grav:gen -->
 # 8.4 Other Determinants of Helping
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -19,9 +12,8 @@ title: "8.4 Other Determinants of Helping"
 
 ## Some People Are More Helpful Than Others: The Altruistic Personality
 
-We have seen that the social situation is a very strong determinant of whether or not we help. But although the effects of personality may not generally be as strong as those of the social context, person variables do matter. *Some people are indeed more helpful than others across a variety of situations*, and we say that these people have an <!-- grav: [term] -->altruistic or prosocial personality<!-- grav: [/term] -->(Penner, Fritzsche, Craiger, & Freifeld, 1995). To see how you stand on this variable read the statements in Figure 8.10, “Measuring the Altruistic Personality,” and consider the extent to which you agree with them.
+We have seen that the social situation is a very strong determinant of whether or not we help. But although the effects of personality may not generally be as strong as those of the social context, person variables do matter. *Some people are indeed more helpful than others across a variety of situations*, and we say that these people have an altruistic or prosocial personality(Penner, Fritzsche, Craiger, & Freifeld, 1995). To see how you stand on this variable read the statements in Figure 8.10, “Measuring the Altruistic Personality,” and consider the extent to which you agree with them.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -64,7 +56,6 @@ This does not mean that women are any less helpful—in fact thousands of women 
 
 Although this type of helping might be less likely to be rewarded with newspaper stories and medals, providing social support and helping connect people serves to help us meet the important goal of relating to others and thus helps improve the quality of our lives. And women are not afraid to help in situations that are dangerous. In fact, women have been found to be as likely as men are to engage in behaviors such as donating a kidney to others (Becker & Eagly, 2004).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -100,7 +91,7 @@ In addition to attempting to determine whether the help is really needed, we als
 
 Supporting this idea, Dooley (1995) had students read scenarios about a person who had been diagnosed with AIDS. Participants who learned that the person had contracted the disease through a blood transfusion felt more empathy and pity for the person, and also expressed a greater desire to help the person, than did participants who believed that the disease was caused by unprotected sex or by illicit drug use. One reason we may be particularly likely to help victims of hurricanes and other natural disasters, then, is that we see that these people did not cause their own problems. Those who do argue against helping these victims may well take the opposite position because they believe that the individuals deserved what they got (“they should have known better than to live there.”)
 
-It has been argued that a fundamental difference between individuals who hold politically conservative views and those who hold politically liberal views is how they perceive the necessity or moral responsibility of helping others, and that this relates to how they perceive the causes of people’s outcomes. Consider people who appear to need help because they have inadequate food, shelter, or health care, for example. Liberals tend to attribute these outcomes more externally, blaming them on unjust social practices and societal structures that create inequalities. Because they are likely to believe that the people do not deserve their unfortunate situation, they are likely to favor spending on social programs designed to help these people. Conservatives, on the other hand, are more likely to hold <!-- grav: [term name="Just world belief"] -->just world beliefs<!-- grav: [/term] -->—*beliefs that people get what they deserve in life* (Lerner, 1980). Conservatives make more internal attributions for negative outcomes, believing that the needs are caused by the lack of effort or ability on the part of the individual. They are therefore less likely than liberals to favor government spending on welfare and other social programs designed to help people (Kluegel & Smith, 1986; Skitka, 1999).
+It has been argued that a fundamental difference between individuals who hold politically conservative views and those who hold politically liberal views is how they perceive the necessity or moral responsibility of helping others, and that this relates to how they perceive the causes of people’s outcomes. Consider people who appear to need help because they have inadequate food, shelter, or health care, for example. Liberals tend to attribute these outcomes more externally, blaming them on unjust social practices and societal structures that create inequalities. Because they are likely to believe that the people do not deserve their unfortunate situation, they are likely to favor spending on social programs designed to help these people. Conservatives, on the other hand, are more likely to hold just world beliefs—*beliefs that people get what they deserve in life* (Lerner, 1980). Conservatives make more internal attributions for negative outcomes, believing that the needs are caused by the lack of effort or ability on the part of the individual. They are therefore less likely than liberals to favor government spending on welfare and other social programs designed to help people (Kluegel & Smith, 1986; Skitka, 1999).
 
 ### Reactions to Receiving Help
 
@@ -112,7 +103,7 @@ The negative feelings that we experience when receiving help are likely to be pa
 
 Another situation in which people may not appreciate the help they are receiving is when that help comes on the basis of one’s presumed need. For instance Blaine, Crocker, and Major (1995) found that people who imagined that they had been hired for a job because they were disabled experienced lower self-esteem and felt that they were less likely to work hard on the job than those who imagined that they were hired on the basis of their job qualifications. You can see that government programs, such as those based on the notion of affirmative action, although likely to be helpful for the people who receive them, may also lead those people to feel dependent on others.
 
-In contrast to dependency-oriented help, autonomy-oriented help is partial and temporary and provides information to the other, for instance, by giving instructions or guidance or providing ideas about how to help oneself. <!-- grav: [term] -->Autonomy-oriented help<!-- grav: [/term] --> *reflects the helper’s view that, given the appropriate tools, recipients can help themselves* (Brickman, 1982). Autonomy-oriented help allows help recipients to retain their independence despite their reliance on the more resourceful helper. This type of help is less likely to clash with the recipients’ view of themselves as capable people who can help themselves.
+In contrast to dependency-oriented help, autonomy-oriented help is partial and temporary and provides information to the other, for instance, by giving instructions or guidance or providing ideas about how to help oneself. Autonomy-oriented help *reflects the helper’s view that, given the appropriate tools, recipients can help themselves* (Brickman, 1982). Autonomy-oriented help allows help recipients to retain their independence despite their reliance on the more resourceful helper. This type of help is less likely to clash with the recipients’ view of themselves as capable people who can help themselves.
 
 There are also observed gender differences in the willingness to seek help. Boys and men are less likely to ask for help overall, perhaps in part because they feel that asking for help indicates to others that they are less capable of handling their own affairs or that they have low status (Addis & Mahalik, 2003; Mansfield, Addis, & Mahalik, 2003).
 
@@ -145,7 +136,6 @@ Now that we have a fundamental understanding of the variables that influence the
 
 First, we need to remember that not all helping is based on other-concern—self-concern is also important. People help in part because it makes them feel good, and therefore anything that we can do to increase the benefits of helping and to decrease the costs of helping would be useful. Consider, for instance, the research of Mark Snyder, who has extensively studied the people who volunteer to help other people who are suffering from AIDS (Snyder & Omoto, 2004; Snyder, Omoto, & Lindsay, 2004). To help understand which volunteers were most likely to continue to volunteer over time, Snyder and his colleagues (Omoto & Snyder, 1995) asked the AIDS volunteers to indicate why they volunteered. As you can see in Figure 8.12, “Reasons for Volunteering to Help AIDS Victims,” the researchers found that the people indicated that they volunteered for many different reasons, and these reasons fit well with our assumptions about human nature—they involve both self-concern as well as other-concern.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -208,7 +198,6 @@ We can also use what we have learned about helping in emergency situations to in
 
 We must be sure to follow the steps in Latané and Darley’s model, attempting to increase helping at each stage. We must make the emergency noticeable and clearly an emergency, for instance, by yelling out: “This is an emergency! Please call the police! I need help!” And we must attempt to avoid the diffusion of responsibility, for instance, by designating one individual to help: “You over there in the red shirt, please call 911 now!”
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -227,7 +216,6 @@ We must be sure to follow the steps in Latané and Darley’s model, attempting 
 2. Imagine that you knew someone who was ill and needed help. How would you frame your help to make him or her willing to accept it?
 3. Assume for a moment that you were in charge of creating an advertising campaign designed to increase people’s altruism. On the basis of your reading, what approaches might you take?
 
-<!-- grav: [references] -->
 #### References
 
 Addis, M. E., & Mahalik, J. R. (2003). Men, masculinity, and the contexts of help seeking. *American Psychologist, 58*(1), 5–14.
@@ -312,4 +300,3 @@ Snyder, M., Omoto, A. M., & Crain, A. L. (1999). Punished for their good deeds: 
 
 Snyder, M., Omoto, A. M., & Lindsay, J. J. (Eds.). (2004). *Sacrificing time and effort for the good of others: The benefits and costs of volunteerism*. New York, NY: Guilford Press.
 
-<!-- grav: [/references] -->

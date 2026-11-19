@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/04.section-4/05.35-chapter-summary/section-page.md"}
-title: "3.5 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 3.5 Chapter Summary
-<!-- /grav:gen -->
 
 The many and varied thoughts that we have about ourselves are stored in the variety of self-schemas that make up the cognitive part of the self—the self-concept. The self-concept is the most complex of all our schemas because it includes all of the images, desires, beliefs, feelings, and hopes that we have for and about ourselves.
 
@@ -24,7 +18,7 @@ The tendency to attempt to present a positive image to others and thereby attemp
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3199#h5p-13)
 
-<!-- grav: [details summary="Text version of: Chapter 3 Multiple-Choice Quiz"] --><details><summary>Text version of: Chapter 3 Multiple-Choice Quiz</summary>
+<details><summary>Text version of: Chapter 3 Multiple-Choice Quiz</summary>
 
 **H5P: Test your Learning: Chapter 3 Multiple-Choice Quiz**
 
@@ -56,4 +50,4 @@ As you have reached the end of this chapter, consider taking this multiple-choic
     3. upward; decrease
     4. downward; not affect
 
-</details><!-- grav: [/details] -->
+</details>

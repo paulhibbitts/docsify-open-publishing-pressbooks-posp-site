@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/09.section-9/05.85-thinking-like-a-social-psychologist-about-altru/section-page.md"}
-title: "8.5 Thinking Like a Social Psychologist about Altruism"
--->
-
-<!-- grav:gen -->
 # 8.5 Thinking Like a Social Psychologist about Altruism
-<!-- /grav:gen -->
 
 This chapter has been concerned with the many varieties of helping. We have seen that helping and altruism may occur in a variety of ways and toward a variety of people. Were you surprised to learn how important helping is in our social lives, and in how many different ways it occurs? Can you now see—perhaps in a way that you did not before—that helping allows us to lead more effective lives?
 

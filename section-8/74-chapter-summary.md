@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/08.section-8/04.74-chapter-summary/section-page.md"}
-title: "7.4 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 7.4 Chapter Summary
-<!-- /grav:gen -->
 
 Relationships between people that are characterized by loving, caring, commitment, and intimacy, such as those between adult friends, dating partners, lovers, and married couples, are known as close relationships.
 

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/02.section-2/04.14-chapter-summary/section-page.md"}
-title: "1.4 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 1.4 Chapter Summary
-<!-- /grav:gen -->
 
 The science of social psychology began when scientists first started to systematically and formally measure the thoughts, feelings, and behaviors of human beings. Social psychology was energized by a number of researchers who sought to better understand how the Nazis perpetrated the Holocaust against the Jews of Europe. The 1950s and 1960s saw an expansion of social psychology into the field of attitudes and group processes. In the 1970s and 1980s, the discipline became more cognitive in orientation. Today, the field of social psychology is expanding into still other areas, such as evolutionary psychology, the study of culture, and social neuroscience.
 
@@ -36,7 +30,7 @@ External validity refers to the extent to which relationships can be expected to
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3144#h5p-5)
 
-<!-- grav: [details summary="Text version of: Chapter 1 Multiple-Choice Quiz"] --><details><summary>Text version of: Chapter 1 Multiple-Choice Quiz</summary>
+<details><summary>Text version of: Chapter 1 Multiple-Choice Quiz</summary>
 
 **H5P: TEST YOUR LEARNING: CHAPTER 1 MULTIPLE-CHOICE QUIZ**
 
@@ -68,7 +62,7 @@ Now that you’ve reviewed the chapter, try this multiple-choice quiz to see wha
     3. social norms
     4. social cognition
 
-</details><!-- grav: [/details] -->
+</details>
 
 Is social psychology just common sense? Answers and explanations
 

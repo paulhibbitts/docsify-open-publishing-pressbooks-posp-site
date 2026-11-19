@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/14.section-14/01.about-the-authors/section-page.md"}
-title: "About the Authors"
--->
-
-<!-- grav:gen -->
 # About the Authors
-<!-- /grav:gen -->
 
 ## Rajiv Jhangiani
 

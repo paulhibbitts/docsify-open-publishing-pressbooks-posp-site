@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/06.section-6/02.52-inferring-dispositions-using-causal-attribution/section-page.md"}
-title: "5.2 Inferring Dispositions Using Causal Attribution"
--->
-
-<!-- grav:gen -->
 # 5.2 Inferring Dispositions Using Causal Attribution
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -20,9 +13,9 @@ title: "5.2 Inferring Dispositions Using Causal Attribution"
 
 Although we can sometimes infer personality by observing behavior, this is not always the case. Remember that behavior is influenced by both our personal characteristics and the social context in which we find ourselves. What this means is that the behavior we observe other people engaging in might not always be reflective of their personality; instead, the behavior might have been caused more by the situation rather than by underlying person characteristics. Perhaps Zoe hit Joe not because she is really an aggressive person but because Joe insulted or provoked her first. And perhaps Cejay left a big tip in order to impress his friends rather than because he is truly generous.
 
-Because behavior can be influenced by both the person and the situation, we must attempt to determine which of these two causes actually more strongly determined the behavior. *The process of trying to determine the causes of people’s behavior* is known as <!-- grav: [term] -->causal attribution<!-- grav: [/term] --> (Heider, 1958). Because we cannot see personality, we must work to infer it. When a couple we know breaks up, despite what seemed to be a match made in heaven, we are naturally curious. What could have caused the breakup? Was it something one of them said or did? Or perhaps stress from financial hardship was the culprit?
+Because behavior can be influenced by both the person and the situation, we must attempt to determine which of these two causes actually more strongly determined the behavior. *The process of trying to determine the causes of people’s behavior* is known as causal attribution (Heider, 1958). Because we cannot see personality, we must work to infer it. When a couple we know breaks up, despite what seemed to be a match made in heaven, we are naturally curious. What could have caused the breakup? Was it something one of them said or did? Or perhaps stress from financial hardship was the culprit?
 
-Making a causal attribution can be a bit like conducting a social psychology experiment. We carefully observe the people we are interested in, and we note how they behave in different social situations. After we have made our observations, we draw our conclusions. We make a <!-- grav: [term] -->personal (or internal or dispositional) attribution<!-- grav: [/term] --> *when we decide that the behavior was caused primarily by the person*. A personal attribution might be something like “I think they broke up because Sarah was not committed to the relationship.” At other times, *we may determine that the behavior was caused primarily by the situation*—we call this making a <!-- grav: [term name="Situational attribution"] -->situational (or external) attribution<!-- grav: [/term] -->.A situational attribution might be something like, “I think they broke up because they were under such financial stress.” At yet other times, we may decide that the behavior was caused by both the person and the situation; “I think they broke up because Sarah’s lack of commitment really became an issue once they had financial troubles.”
+Making a causal attribution can be a bit like conducting a social psychology experiment. We carefully observe the people we are interested in, and we note how they behave in different social situations. After we have made our observations, we draw our conclusions. We make a personal (or internal or dispositional) attribution *when we decide that the behavior was caused primarily by the person*. A personal attribution might be something like “I think they broke up because Sarah was not committed to the relationship.” At other times, *we may determine that the behavior was caused primarily by the situation*—we call this making a situational (or external) attribution.A situational attribution might be something like, “I think they broke up because they were under such financial stress.” At yet other times, we may decide that the behavior was caused by both the person and the situation; “I think they broke up because Sarah’s lack of commitment really became an issue once they had financial troubles.”
 
 ## Making Inferences about Personality
 
@@ -54,13 +47,13 @@ Sometimes a person may try to lead others to make personal attributions for thei
 
 So far, we have considered how we make personal attributions when we have only limited information; that is, behavior observed at only a single point in time—a man leaving a big tip at a restaurant, a man answering questions at a job interview, or a politician giving a speech. But the process of making attributions also occurs when we are able to observe a person’s behavior in more than one situation. Certainly, we can learn more about Cejay’s generosity if he gives a big tip in many different restaurants with many different people, and we can learn more about a politician’s beliefs by observing the kinds of speeches she gives to different audiences over time.
 
-When people have multiple sources of information about the behavior of a person, they can make attributions by assessing the relationship between a person’s behavior and the social context in which it occurs. One way of doing so is to use the <!-- grav: [term] -->covariation principle<!-- grav: [/term] -->,which states that *a given behavior is more likely to have been caused by the situation if that behavior covaries (or changes) across situations*. Our job, then, is to study the patterns of a person’s behavior across different situations in order to help us to draw inferences about the causes of that behavior (Jones et al., 1987; Kelley, 1967).
+When people have multiple sources of information about the behavior of a person, they can make attributions by assessing the relationship between a person’s behavior and the social context in which it occurs. One way of doing so is to use the covariation principle,which states that *a given behavior is more likely to have been caused by the situation if that behavior covaries (or changes) across situations*. Our job, then, is to study the patterns of a person’s behavior across different situations in order to help us to draw inferences about the causes of that behavior (Jones et al., 1987; Kelley, 1967).
 
 Research has found that people focus on three kinds of covariation information when they are observing the behavior of others (Cheng & Novick, 1990).
 
-- <!-- grav: [term] -->Consistency information<!-- grav: [/term] -->. A situation seems to be the cause of a behavior if the situation *always produces the behavior in the target*. For instance, if I always start to cry at weddings, then it seems as if the wedding is the cause of my crying.
-- <!-- grav: [term] -->Distinctiveness information<!-- grav: [/term] -->.A situation seems to be the cause of a behavior if the behavior *occurs when the situation is present but not when it is not present*. For instance, if I only cry at weddings but not at any other time, then it seems as if the wedding is the cause of my crying.
-- <!-- grav: [term] -->Consensus information<!-- grav: [/term] -->.A situation seems to be the cause of a behavior if the situation *creates the same behavior in most people*. For instance, if many people cry at weddings, then it seems as if the wedding is the cause of my (and the other people’s) crying.
+- Consistency information. A situation seems to be the cause of a behavior if the situation *always produces the behavior in the target*. For instance, if I always start to cry at weddings, then it seems as if the wedding is the cause of my crying.
+- Distinctiveness information.A situation seems to be the cause of a behavior if the behavior *occurs when the situation is present but not when it is not present*. For instance, if I only cry at weddings but not at any other time, then it seems as if the wedding is the cause of my crying.
+- Consensus information.A situation seems to be the cause of a behavior if the situation *creates the same behavior in most people*. For instance, if many people cry at weddings, then it seems as if the wedding is the cause of my (and the other people’s) crying.
 
 Imagine that your friend Jane likes to go out with a lot of different men, and you have observed her behavior with each of these men over time. One night she goes to a party with Ravi, where you observe something unusual. Although Jane has come to the party with Ravi, she completely ignores him all night. She dances with some other men, and in the end she leaves the party with someone else. This is the kind of situation that might make you wonder about the cause of Jane’s behavior (is she a rude person, or is this behavior caused more by Ravi?) and for which you might use the covariation principle to attempt to draw some conclusions.
 
@@ -82,7 +75,7 @@ These predictions have generally been supported in studies of attribution, typic
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3235#h5p-14)
 
-<!-- grav: [details summary="Text version of: Chapter 5 Fill In The Blanks – Internal Or External Attribution Case Study"] --><details><summary>Text version of: Chapter 5 Fill In The Blanks – Internal Or External Attribution Case Study</summary>
+<details><summary>Text version of: Chapter 5 Fill In The Blanks – Internal Or External Attribution Case Study</summary>
 
 **H5P: TEST YOUR LEARNING: CHAPTER 5 FILL IN THE BLANKS – INTERNAL OR EXTERNAL ATTRIBUTION CASE STUDY**
 
@@ -90,7 +83,7 @@ Use your understanding of consensus, distinctiveness, and consistency informatio
 
 You are a psychotherapist with many clients. One day, your last client is twenty minutes late for a one hour appointment. He is regularly late for your appointments. Most of your other clients are typically late arriving. He has disclosed to you that, in general, he is quite a punctual person. In this situation, your client’s lateness for his current appointment shows   consensus,   distinctiveness, and   consistency. Given this, it is most likely that you would make an   attribution about his behavior.
 
-</details><!-- grav: [/details] -->
+</details>
 
 ### Attributions for Success and Failure
 
@@ -113,7 +106,6 @@ If you did well on a test because you are really smart, then this is a personal 
 
 We have reviewed some of the important theory and research into how we make attributions. Another important question, that we will now turn to, is how accurately we attribute the causes of behavior. It is one thing to believe that that someone shouted at us because he or she has an aggressive personality, but quite another to prove that the situation, including our own behavior, was not the more important cause!
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -131,7 +123,6 @@ We have reviewed some of the important theory and research into how we make attr
 2. Outline a situation where you used consensus, consistency, and distinctiveness information to make an attribution about someone’s behavior. How well does the covariation principle explain the type of attribution (internal or external) that you made?
 3. Consider a time when you made an attribution about your own success or failure. How did your analysis of the situation relate to Weiner’s ideas about these processes? How did you feel about yourself after making this attribution and why?
 
-<!-- grav: [references] -->
 #### References
 
 Allison, S. T., & Messick, D. M. (1985b). The group attribution error. *Journal of Experimental Social Psychology, 21(6),* 563-579.
@@ -159,7 +150,6 @@ Uleman, J. S., Blader, S. L., & Todorov, A. (Eds.). (2005). *Implicit impression
 
 Weiner, B. (1985). Attributional theory of achievement motivation and emotion. *Psychological Review, 92*, 548–573.
 
-<!-- grav: [/references] -->
 
  #### Image Description
 

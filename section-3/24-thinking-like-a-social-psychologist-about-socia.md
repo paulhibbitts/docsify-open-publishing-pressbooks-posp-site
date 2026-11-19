@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/03.section-3/04.24-thinking-like-a-social-psychologist-about-socia/section-page.md"}
-title: "2.4 Thinking Like a Social Psychologist about Social Cognition"
--->
-
-<!-- grav:gen -->
 # 2.4 Thinking Like a Social Psychologist about Social Cognition
-<!-- /grav:gen -->
 
 Consider your schemas and attitudes toward some of the many people you have met in your life—perhaps those you knew in school, the people in your family, or those in your wider social groups or other organizations. And also think about people you have only heard about rather than have met—maybe those from other countries or cultures. Did operant learning influence your opinions about them? Did you model your behavior after them? Or perhaps you had a single negative encounter with one person and disliked that person or his or her social group for a long time after.
 
@@ -20,7 +14,7 @@ We hope that this chapter has provided you with some new and useful ideas about 
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3173#h5p-8)
 
-<!-- grav: [details summary="Text version of: Chapter 2 True Of False Quiz"] --><details><summary>Text version of: Chapter 2 True Of False Quiz</summary>
+<details><summary>Text version of: Chapter 2 True Of False Quiz</summary>
 
 **H5P: TEST YOUR LEARNING: CHAPTER 2 TRUE OF FALSE QUIZ**Try this quick true-false quiz to see how well you have remembered some key concepts from this chapter. You can check your answers as you go, or wait for overall feedback at the end. Good luck! 1. Social cognition is a topic that explores how we process and utilize information about our social worlds.
     1. True
@@ -38,4 +32,4 @@ We hope that this chapter has provided you with some new and useful ideas about 
     1. True
     2. False
 
-</details><!-- grav: [/details] -->
+</details>

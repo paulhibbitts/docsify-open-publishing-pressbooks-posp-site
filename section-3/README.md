@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/03.section-3/section.md"}
-title: "Chapter 2. Social Cognition"
--->
-
-<!-- grav:gen -->
 # Chapter 2. Social Cognition
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -35,7 +28,6 @@ title: "Chapter 2. Social Cognition"
 
 As we investigate the role of cognition in everyday life, we will consider the ways that people use their cognitive abilities to make good decisions and to inform their behavior in a useful and accurate way. We will also consider the potential for mistakes and biases in human judgment. We will see that although we are generally pretty good at sizing up other people and creating effective social interactions, we are not perfect. And we will further see that the errors we make frequently occur because of our reliance on our schemas and and a general tendency to take shortcuts through the use of cognitive heuristics, information-processing rules of thumb that enable us to think in ways that are quick and easy but that may sometimes lead to error. In short, although our cognitive abilities are often “good enough,” there is definitely room for improvement in our social cognition.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -51,7 +43,6 @@ As we investigate the role of cognition in everyday life, we will consider the w
 > </figure>
 >
 
-<!-- grav: [references] -->
 ### References
 
 Fiske, S. T., & Taylor, S. E. (2007). *Social cognition, from brains to culture*. New York, NY: McGraw-Hill.
@@ -60,7 +51,6 @@ Macrae, C. N., & Quadflieg, S. (2010). Perceiving people. In S. T. Fiske, D. T. 
 
 Wells, G. L., Memon, A., & Penrod, S. D. (2006). Eyewitness evidence: Improving its probative value. *Psychological Science in the Public Interest, 7*(2), 45–75.
 
-<!-- grav: [/references] -->
 
  ### Media Attributions
 

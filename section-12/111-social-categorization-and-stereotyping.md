@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/12.section-12/01.111-social-categorization-and-stereotyping/section-page.md"}
-title: "11.1 Social Categorization and Stereotyping"
--->
-
-<!-- grav:gen -->
 # 11.1 Social Categorization and Stereotyping
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -15,7 +8,7 @@ title: "11.1 Social Categorization and Stereotyping"
 > 3. Review the ways that stereotypes influence our behavior.
 >
 
- Thinking about others in terms of their group memberships is known as <!-- grav: [term] -->social categorization<!-- grav: [/term] -->—*the natural cognitive process by which we place individuals into social groups.* Social categorization occurs when we think of someone as a man (versus a woman), an old person (versus a young person), a Black person (versus an Asian or White person), and so on (Allport, 1954/1979). Just as we categorize objects into different types, so do we categorize people according to their social group memberships. Once we do so, we begin to respond to those people more as members of a social group than as individuals.
+ Thinking about others in terms of their group memberships is known as social categorization—*the natural cognitive process by which we place individuals into social groups.* Social categorization occurs when we think of someone as a man (versus a woman), an old person (versus a young person), a Black person (versus an Asian or White person), and so on (Allport, 1954/1979). Just as we categorize objects into different types, so do we categorize people according to their social group memberships. Once we do so, we begin to respond to those people more as members of a social group than as individuals.
 
 Imagine for a moment that two college students, Farhad and Sarah, are talking at a table in the student union at your college or university. At this point, we would probably not consider them to be acting as group members, but rather as two individuals. Farhad is expressing his opinions, and Sarah is expressing hers. Imagine, however, that as the conversation continues, Sarah brings up an assignment that she is completing for her women’s studies class. It turns out that Farhad does not think there should be a women’s studies program at the college, and he tells Sarah so. He argues that if there is a women’s studies program, then there should be a men’s studies program too. Furthermore, he argues that women are getting too many breaks in job hiring and that qualified men are the targets of discrimination. Sarah feels quite the contrary—arguing that women have been the targets of sexism for many, many years and even now do not have the same access to high-paying jobs that men do.
 
@@ -71,7 +64,7 @@ One problem is that social categorization distorts our perceptions such that we 
 
 Tajfel found that the lines were perceived differently when they were categorized, such that the differences between the groups and the similarities within the groups were emphasized. Specifically, he found that although lines C and D (which are actually the same length) were perceived as equal in length when the lines were not categorized, line D was perceived as being significantly longer than line C in the condition in which the lines were categorized. In this case, categorization into two groups—the “short lines group” and the “long lines group”—produced a perceptual bias such that the two groups of lines were seen as more different than they really were.
 
-Similar effects occur when we categorize other people. We tend to see people who belong to the same social group as more similar than they actually are, and we tend to judge people from different social groups as more different than they actually are. The tendency to see members of social groups as similar to each other is particularly strong for members of outgroups, resulting in <!-- grav: [term] -->outgroup homogeneity<!-- grav: [/term] -->—*the tendency to view members of outgroups as more similar to each other than we see members of ingroups* (Linville, Salovey, & Fischer, 1986; Ostrom & Sedikides, 1992; Meissner & Brigham, 2001). Perhaps you have had this experience yourself when you found yourself thinking or saying, “Oh, them, they’re all the same!”
+Similar effects occur when we categorize other people. We tend to see people who belong to the same social group as more similar than they actually are, and we tend to judge people from different social groups as more different than they actually are. The tendency to see members of social groups as similar to each other is particularly strong for members of outgroups, resulting in outgroup homogeneity—*the tendency to view members of outgroups as more similar to each other than we see members of ingroups* (Linville, Salovey, & Fischer, 1986; Ostrom & Sedikides, 1992; Meissner & Brigham, 2001). Perhaps you have had this experience yourself when you found yourself thinking or saying, “Oh, them, they’re all the same!”
 
 Patricia Linville and Edward Jones (1980) gave research participants a list of trait terms and asked them to think about either members of their own group (e.g., Blacks) or members of another group (e.g., Whites) and to place the trait terms into piles that represented different types of people in the group. The results of these studies, as well as other studies like them, were clear: people perceive outgroups as more homogeneous than their ingroup. Just as White people used fewer piles of traits to describe Blacks than Whites, young people used fewer piles of traits to describe elderly people than they did young people, and students used fewer piles for members of other universities than they did for members of their own university.
 
@@ -106,7 +99,6 @@ Because they are so highly cognitively accessible, and because they seem so “r
 
 Because stereotypes and prejudice often operate out of our awareness, and also because people are frequently unwilling to admit that they hold them, social psychologists have developed methods for assessing them indirectly. In the Research Focus box following, we will consider two of these approaches—the bogus pipeline procedure and the Implicit Association Test (IAT).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -116,13 +108,13 @@ Because stereotypes and prejudice often operate out of our awareness, and also b
 >
 > One difficulty in measuring stereotypes and prejudice is that people may not tell the truth about their beliefs. Most people do not want to admit—either to themselves or to others—that they hold stereotypes or that they are prejudiced toward some social groups. To get around this problem, social psychologists make use of a number of techniques that help them measure these beliefs more subtly and indirectly.
 >
-> One indirect approach to assessing prejudice is called the <!-- grav: [term] -->bogus pipeline procedure<!-- grav: [/term] --> (Jones & Sigall, 1971). *In this procedure, the experimenter first convinces the participants that he or she has access to their “true” beliefs, for instance, by getting access to a questionnaire that they completed at a prior experimental session*. Once the participants are convinced that the researcher is able to assess their “true” attitudes, it is expected that they will be more honest in answering the rest of the questions they are asked because they want to be sure that the researcher does not catch them lying. Interestingly, people express more prejudice when they are in the bogus pipeline than they do when they are asked the same questions more directly, which suggests that we may frequently mask our negative beliefs in public.
+> One indirect approach to assessing prejudice is called the bogus pipeline procedure (Jones & Sigall, 1971). *In this procedure, the experimenter first convinces the participants that he or she has access to their “true” beliefs, for instance, by getting access to a questionnaire that they completed at a prior experimental session*. Once the participants are convinced that the researcher is able to assess their “true” attitudes, it is expected that they will be more honest in answering the rest of the questions they are asked because they want to be sure that the researcher does not catch them lying. Interestingly, people express more prejudice when they are in the bogus pipeline than they do when they are asked the same questions more directly, which suggests that we may frequently mask our negative beliefs in public.
 >
 > Other indirect measures of prejudice are also frequently used in social psychological research; for instance, assessing nonverbal behaviors such as speech errors or physical closeness. One common measure involves asking participants to take a seat on a chair near a person from a different racial or ethnic group and measuring how far away the person sits (Sechrist & Stangor, 2001; Word, Zanna, & Cooper, 1974). People who sit farther away are assumed to be more prejudiced toward the members of the group.
 >
 > Because our stereotypes are activated spontaneously when we think about members of different social groups, it is possible to use reaction-time measures to assess this activation and thus to learn about people’s stereotypes and prejudices. In these procedures, participants are asked to make a series of judgments about pictures or descriptions of social groups and then to answer questions as quickly as they can, but without making mistakes. The speed of these responses is used to determine an individual’s stereotypes or prejudice.
 >
-> The most popular reaction-time implicit measure of prejudice—the <!-- grav: [term name="Implicit Association Test"] -->Implicit Association Test (IAT)<!-- grav: [/term] -->—is *frequently used to assess stereotypes and prejudice* (Nosek, Greenwald, & Banaji, 2007). *In the IAT, participants are asked to classify stimuli that they view on a computer screen into one of two categories by pressing one of two computer keys, one with their left hand and one with their right hand.* Furthermore, the categories are arranged so that the responses to be answered with the left and right buttons either “fit with” (match) the stereotype or do not “fit with” (mismatch) the stereotype. For instance, in one version of the IAT, participants are shown pictures of men and women and are also shown words related to academic disciplines (e.g., *History*, *French*, or *Linguistics* for the Arts, or *Chemistry*, *Physics*, or *Math* for the Sciences). Then the participants categorize the photos (“Is this picture a picture of a man or a woman?”) and answer questions about the disciplines (“Is this discipline a *science*?) by pressing either the Yes button or the No button using either their left hand or their right hand.
+> The most popular reaction-time implicit measure of prejudice—the Implicit Association Test (IAT)—is *frequently used to assess stereotypes and prejudice* (Nosek, Greenwald, & Banaji, 2007). *In the IAT, participants are asked to classify stimuli that they view on a computer screen into one of two categories by pressing one of two computer keys, one with their left hand and one with their right hand.* Furthermore, the categories are arranged so that the responses to be answered with the left and right buttons either “fit with” (match) the stereotype or do not “fit with” (mismatch) the stereotype. For instance, in one version of the IAT, participants are shown pictures of men and women and are also shown words related to academic disciplines (e.g., *History*, *French*, or *Linguistics* for the Arts, or *Chemistry*, *Physics*, or *Math* for the Sciences). Then the participants categorize the photos (“Is this picture a picture of a man or a woman?”) and answer questions about the disciplines (“Is this discipline a *science*?) by pressing either the Yes button or the No button using either their left hand or their right hand.
 >
 > When the responses are arranged on the screen in a way that matches a stereotype, such that the male category and the “science” category are on the same side of the screen (e.g., on the right side), participants can do the task very quickly and they make few mistakes. It’s just easier, because the stereotypes are matched or associated with the pictures in a way that makes sense or is familiar. But when the images are arranged such that the female category and the “science” category are on the same side, whereas the men and the weak categories are on the other side, most participants make more errors and respond more slowly. The basic assumption is that if two concepts are associated or linked, they will be responded to more quickly if they are classified using the same, rather than different, keys.
 >
@@ -153,7 +145,7 @@ One of the long-standing puzzles in the area of academic performance concerns wh
 
 In support of this hypothesis, Steele and Aronson’s research revealed that Black college students performed worse (in comparison with their prior test scores) on math questions taken from the Graduate Record Examination (GRE) when the test was described to them as being “diagnostic of their mathematical ability” (and thus when the stereotype was relevant) but that their performance was not influenced when the same questions were framed as “an exercise in problem solving.” And in another study, Steele and Aronson found that when Black students were asked to indicate their race before they took a math test (again activating the stereotype), they performed more poorly than they had on prior exams, whereas the scores of White students were not affected by first indicating their race.
 
-Steele and Aronson argued that thinking about negative stereotypes that are relevant to a task that one is performing creates <!-- grav: [term] -->stereotype threat<!-- grav: [/term] -->—*performance decrements that are caused by the knowledge of cultural stereotypes*. That is, they argued that the negative impact of race on standardized tests may be caused, at least in part, by the performance situation itself. Because the threat is “in the air,” Black students may be negatively influenced by it.
+Steele and Aronson argued that thinking about negative stereotypes that are relevant to a task that one is performing creates stereotype threat—*performance decrements that are caused by the knowledge of cultural stereotypes*. That is, they argued that the negative impact of race on standardized tests may be caused, at least in part, by the performance situation itself. Because the threat is “in the air,” Black students may be negatively influenced by it.
 
 Research has found that the experience of stereotype threat can help explain a wide variety of performance decrements among those who are targeted by negative stereotypes. For instance, when a math task is described as diagnostic of intelligence, Latinos and particularly Latinas perform more poorly than do Whites (Gonzales, Blanton, & Williams, 2002). Similarly, when stereotypes are activated, children with low socioeconomic status perform more poorly in math than do those with high socioeconomic status, and psychology students perform more poorly than do natural science students (Brown, Croizet, Bohner, Fournet, & Payne, 2003). Even groups who typically enjoy advantaged social status can be made to experience stereotype threat. White men performed more poorly on a math test when they were told that their performance would be compared with that of Asian men (Aronson, Lustina, Good, Keough, & Steele, 1999), and Whites performed more poorly than Blacks on a sport-related task when it was described to them as measuring their natural athletic ability (Stone, 2002).
 
@@ -163,7 +155,6 @@ Research has found that stereotype threat is caused by both cognitive and affect
 
 Stereotype threat is not, however, absolute—we can get past it if we try. What is important is to reduce the self-concern that is engaged when we consider the relevant negative stereotypes. Manipulations that affirm positive characteristics about oneself or one’s group are successful at reducing stereotype threat (Alter, Aronson, Darley, Rodriguez, & Ruble, 2010; Greenberg et al., 2003; McIntyre, Paulson, & Lord, 2003). In fact, just knowing that stereotype threat exists and may influence performance can help alleviate its negative impact (Johns, Schmader, & Martens, 2005).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -183,7 +174,6 @@ Stereotype threat is not, however, absolute—we can get past it if we try. What
 2. Take one of the two interviews listed on [Understanding Prejudice](https://secure.understandingprejudice.org/drawline/).
 3. Think of a task that one of the social groups to which you belong is considered to be particularly good or poor at. Do you think the cultural stereotypes about your group have ever influenced your performance on a task?
 
-<!-- grav: [references] -->
 #### References
 
 Aboud, F. E., & Doyle, A.-B. (1996). Parental and peer influences on children’s racial attitudes. *International Journal of Intercultural Relations, 20*, 371–383.
@@ -294,7 +284,6 @@ Word, C. O., Zanna, M. P., & Cooper, J. (1974). The nonverbal mediation of self-
 
 Yzerbyt, V., Schadron, G., Leyens, J., & Rocher, S. (1994). Social judgeability: The impact of meta-informational cues on the use of stereotypes. *Journal of Personality and Social Psychology, 66*, 48–55.
 
-<!-- grav: [/references] -->
 
  #### Media Attributions
 

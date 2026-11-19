@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/05.section-5/05.45-chapter-summary/section-page.md"}
-title: "4.5 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 4.5 Chapter Summary
-<!-- /grav:gen -->
 
 Attitudes are our positive or negative evaluations of an attitude object. Our attitudes are based on the ABCs of affect, behavior, and cognition. Some attitudes are more important than others because they are more useful to us and thus have more impact on our daily lives. The importance of an attitude, as assessed by how quickly it comes to mind, is known as attitude strength.
 

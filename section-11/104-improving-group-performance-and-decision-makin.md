@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/11.section-11/04.104-improving-group-performance-and-decision-makin/section-page.md"}
-title: "10.4 Improving Group Performance and Decision Making"
--->
-
-<!-- grav:gen -->
 # 10.4 Improving Group Performance and Decision Making
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -21,7 +14,7 @@ title: "10.4 Improving Group Performance and Decision Making"
 
 Perhaps the first thing we need to do is to remind our group members that groups are not as effective as they sometimes seem. Group members often think that their group is being more productive than it really is, and that their own groups are particularly productive. For instance, people who participate in brainstorming groups report that they have been more productive than those who work alone, even if the group has actually not done all that well (Paulus, Dzindolet, Poletes, & Camacho, 1993; Stroebe, Diehl, & Abakoumkin, 1992).
 
-This *tendency to overvalue the level of productivity of our ingroups* is known as the <!-- grav: [term] -->illusion of group effectivity<!-- grav: [/term] -->. A related phenomena is the <!-- grav: [term] -->not invented here bias<!-- grav: [/term] -->, which occurs *when group members overvalue their own group’s ideas and products over those of other groups* (Katz & Allen, 1982). There are many reasons why these biases occur. For one, the productivity of the group as a whole is highly accessible, and this productivity generally seems quite good, at least in comparison with the contributions of single individuals. The group members hear many ideas expressed by themselves and the other group members, and this gives the impression that the group is doing very well, even if objectively it is not. And on the affective side, group members receive a lot of positive social identity from their group memberships. These positive feelings naturally lead them to believe that the group is strong and performing well. Thus the illusion of group effectivity poses a severe problem for group performance, and we must work to make sure that group members are aware of it. Just because we are working in groups does not mean that we are making good decisions or performing a task particularly well—group members, and particularly the group leader, must always monitor group performance and attempt to motivate the group to work harder.
+This *tendency to overvalue the level of productivity of our ingroups* is known as the illusion of group effectivity. A related phenomena is the not invented here bias, which occurs *when group members overvalue their own group’s ideas and products over those of other groups* (Katz & Allen, 1982). There are many reasons why these biases occur. For one, the productivity of the group as a whole is highly accessible, and this productivity generally seems quite good, at least in comparison with the contributions of single individuals. The group members hear many ideas expressed by themselves and the other group members, and this gives the impression that the group is doing very well, even if objectively it is not. And on the affective side, group members receive a lot of positive social identity from their group memberships. These positive feelings naturally lead them to believe that the group is strong and performing well. Thus the illusion of group effectivity poses a severe problem for group performance, and we must work to make sure that group members are aware of it. Just because we are working in groups does not mean that we are making good decisions or performing a task particularly well—group members, and particularly the group leader, must always monitor group performance and attempt to motivate the group to work harder.
 
 ## Motivating Groups to Perform Better by Appealing to Self-Interest
 
@@ -49,7 +42,7 @@ One important method of creating adequate information sharing is to ensure that 
 
 One approach to increasing full discussion of the issues is to have the group break up into smaller subgroups for discussion. This technique increases the amount of discussion overall and allows more group members to air more ideas. In some decision-making groups, it is standard practice to set up several independent groups that consider the same questions, each carrying on its deliberations under a separate leader; the subgroups then meet together to make the final decision.
 
-Within the group itself, conversation can be encouraged through the use of a <!-- grav: [term] -->devil’s advocate<!-- grav: [/term] -->—*an individual who is given the job of expressing conflicting opinions and forcing the group (in a noncombative way) to fully discuss all the alternatives*. Because the opinions of the devil’s advocate challenge the group consensus and thus may hinder quick group decision making and group identity, the individual who takes the job may not be particularly popular in the group. For this reason, the group leader should formally assign the person to the role and make it clear that this role is an essential part of group functioning. The job can profitably be given to one of the most qualified group members and may sometimes rotate from person to person. In other cases, it may be useful to invite an expert or another qualified individual who is not a regular member of the group to the decision-making meetings to give his or her input. This person should be encouraged to challenge the views of the core group.
+Within the group itself, conversation can be encouraged through the use of a devil’s advocate—*an individual who is given the job of expressing conflicting opinions and forcing the group (in a noncombative way) to fully discuss all the alternatives*. Because the opinions of the devil’s advocate challenge the group consensus and thus may hinder quick group decision making and group identity, the individual who takes the job may not be particularly popular in the group. For this reason, the group leader should formally assign the person to the role and make it clear that this role is an essential part of group functioning. The job can profitably be given to one of the most qualified group members and may sometimes rotate from person to person. In other cases, it may be useful to invite an expert or another qualified individual who is not a regular member of the group to the decision-making meetings to give his or her input. This person should be encouraged to challenge the views of the core group.
 
 The group leader is extremely important in fostering norms of open discussion in decision-making groups. An effective leader makes sure that he or she does not state his or her opinions early but, rather, allows the other group members to express their ideas first and encourages the presentation of contrasting positions. This allows a fuller discussion of pros and cons and prevents simple agreement by conformity. Leaders also have the ability to solicit unshared information from the group members, and they must be sure to do so, for instance, by making it clear that each member has important and unique information to share and that it is important to do so. Leaders may particularly need to solicit and support opinions from low-status or socially anxious group members. Some decision-making groups even have a “second-chance meeting” before a final decision is made. In this final meeting, the goal is to explicitly consider alternatives and allow any lingering doubts to be expressed by group members.
 
@@ -79,7 +72,6 @@ Extreme levels of diversity can also be problematic for group process. One diffi
 
 In sum, group diversity may produce either process losses or process gains, but it is difficult to predict which will occur in any given group. Nevertheless, depending on the type and extent of the diversities in a group, the nature of the task, and on the skills of the group leaders and group members to embrace diversity as a strength, it can often promote greater tolerance and result in a range of positive performance and decision making outcomes (Crisp & Turner, 2011; Nishii & Mayer, 2009).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -102,7 +94,6 @@ In sum, group diversity may produce either process losses or process gains, but 
 3. Consider a time when you experienced a process gain in a group. To what extent do you think that the gain was real, versus an illusion of group effectivity and why?
 4. What advantages and challenges have you noticed when working in diverse groups? Based on the research outlined in this section, why do you think that some groups are better able to harness the benefits of diversity and to achieve higher performance?
 
-<!-- grav: [references] -->
 #### References
 
 Bantel, K. A., & Jackson, S. E. (1989). Top management and innovations in banking: Does the composition of the top team make a difference? *Strategy Management Journal, 10*(S1), 107–124.
@@ -197,4 +188,3 @@ Wood, W. (1987). Meta-analytic review of sex differences in group performance. *
 
 Yetton, P., & Bottger, P. (1983). The relationships among group size, member ability, social decision schemes, and performance. *Organizational Behavior and Human Decision Processes, 32*(2), 145–159.
 
-<!-- grav: [/references] -->

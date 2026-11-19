@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/01.section-1/04.acknowledgments/section-page.md"}
-title: "Acknowledgments"
--->
-
-<!-- grav:gen -->
 # Acknowledgments
-<!-- /grav:gen -->
 
 ## From the Adapting Authors
 

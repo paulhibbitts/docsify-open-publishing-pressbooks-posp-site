@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/10.section-10/01.91-defining-aggression/section-page.md"}
-title: "9.1 Defining Aggression"
--->
-
-<!-- grav:gen -->
 # 9.1 Defining Aggression
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -16,21 +9,21 @@ title: "9.1 Defining Aggression"
 
  *Aggression* is a word that we use every day to characterize the behavior of others and perhaps even of ourselves. We say that people are aggressive if they yell at or hit each other, if they cut off other cars in traffic, or even when they smash their fists on the table in frustration. But other harmful acts, such as the injuries that sports players receive during a rough game or the killing of enemy soldiers in a war might not be viewed by everyone as aggression. Because aggression is so difficult to define, social psychologists, judges, and politicians (as well as many other people, including lawyers), have spent a great deal of time trying to determine what should and should not be considered aggression. Doing so forces us to make use of the processes of causal attribution to help us determine the reasons for the behavior of others.
 
-Social psychologists define <!-- grav: [term] -->aggression<!-- grav: [/term] --> as *behavior that is intended to harm another individual who does not wish to be harmed* (Baron & Richardson, 1994). Because it involves the perception of intent, what looks like aggression from one point of view may not look that way from another, and the same harmful behavior may or may not be considered aggressive depending on its intent. Intentional harm is, however, perceived as worse than unintentional harm, even when the harms are identical (Ames & Fiske, 2013).
+Social psychologists define aggression as *behavior that is intended to harm another individual who does not wish to be harmed* (Baron & Richardson, 1994). Because it involves the perception of intent, what looks like aggression from one point of view may not look that way from another, and the same harmful behavior may or may not be considered aggressive depending on its intent. Intentional harm is, however, perceived as worse than unintentional harm, even when the harms are identical (Ames & Fiske, 2013).
 
 You can see that this definition rules out some behaviors that we might normally think are aggressive. For instance, a rugby player who accidentally breaks the arm of another player or a driver who accidentally hits a pedestrian would not by our definition be displaying aggression because although harm was done, there was no intent to harm. A salesperson who attempts to make a sale through repeated phone calls is not aggressive because he is not intending any harm (we might say this behavior is “assertive” rather than aggressive). And not all intentional behaviors that hurt others are aggressive behaviors. A dentist might intentionally give a patient a painful injection of a painkiller, but the goal is to prevent further pain during the procedure.
 
 Because our definition requires us to determine the intent of the perpetrator, there is going to be some interpretation of these intents and there may well be disagreement among the parties involved. The U.S. government perceives the development of a nuclear weapon by Iran as aggressive because the government believes that the weapon is intended to harm others, but Iranians may see the program as a matter of national pride. Although the player whose arm is broken in a rugby match may attribute hostile intent, the other player may claim that the injury was not intended. Within the legal system, juries and judges are frequently asked to determine whether harm was done intentionally.
 
-Social psychologists use the term <!-- grav: [term] -->violence<!-- grav: [/term] --> to refer to *aggression that has extreme physical harm, such as injury or death, as its goal*. Thus violence is a subset of aggression. All violent acts are aggressive, but only acts that are intended to cause extreme physical damage, such as murder, assault, rape, and robbery, are violent. Slapping someone really hard across the face might be violent, but calling people names would only be aggressive.
+Social psychologists use the term violence to refer to *aggression that has extreme physical harm, such as injury or death, as its goal*. Thus violence is a subset of aggression. All violent acts are aggressive, but only acts that are intended to cause extreme physical damage, such as murder, assault, rape, and robbery, are violent. Slapping someone really hard across the face might be violent, but calling people names would only be aggressive.
 
-The type or level of intent that underlies an aggressive behavior creates the distinction between two fundamental types of aggression, which are caused by very different psychological processes. <!-- grav: [term] -->Emotional or impulsive aggression<!-- grav: [/term] --> refers to *aggression that occurs with only a small amount of forethought or intent and that is determined primarily by impulsive emotions*. Emotional aggression is the result of the extreme negative emotions we’re experiencing at the time that we aggress and is not really intended to create any positive outcomes. When Nazim yells at his boyfriend, this is probably emotional aggression—it is impulsive and carried out in the heat of the moment. Other examples are the jealous lover who strikes out in rage or the sports fans who vandalize stores and destroy cars around the stadium after their team loses an important game.
+The type or level of intent that underlies an aggressive behavior creates the distinction between two fundamental types of aggression, which are caused by very different psychological processes. Emotional or impulsive aggression refers to *aggression that occurs with only a small amount of forethought or intent and that is determined primarily by impulsive emotions*. Emotional aggression is the result of the extreme negative emotions we’re experiencing at the time that we aggress and is not really intended to create any positive outcomes. When Nazim yells at his boyfriend, this is probably emotional aggression—it is impulsive and carried out in the heat of the moment. Other examples are the jealous lover who strikes out in rage or the sports fans who vandalize stores and destroy cars around the stadium after their team loses an important game.
 
-<!-- grav: [term] -->Instrumental or cognitive aggression<!-- grav: [/term] -->, on other hand, is *aggression that is intentional and planned*. Instrumental aggression is more cognitive than affective and may be completely cold and calculating. Instrumental aggression is aimed at hurting someone to gain something—attention, monetary reward, or political power, for instance. If the aggressor believes that there is an easier way to obtain the goal, the aggression would probably not occur. A bully who hits a child and steals her toys, a terrorist who kills civilians to gain political exposure, and a hired assassin are all good examples of instrumental aggression.
+Instrumental or cognitive aggression, on other hand, is *aggression that is intentional and planned*. Instrumental aggression is more cognitive than affective and may be completely cold and calculating. Instrumental aggression is aimed at hurting someone to gain something—attention, monetary reward, or political power, for instance. If the aggressor believes that there is an easier way to obtain the goal, the aggression would probably not occur. A bully who hits a child and steals her toys, a terrorist who kills civilians to gain political exposure, and a hired assassin are all good examples of instrumental aggression.
 
 Sometimes it is hard to distinguish between instrumental and emotional aggression, and yet it is important to try to do so. Emotional aggression is usually treated differently in the legal system (with less severe consequences) from cognitive, instrumental aggression. However, it may well be the case that all aggression is at least in part instrumental because it serves some need for the perpetrator. Therefore, it is probably best to consider emotional and instrumental aggression not as distinct categories but rather as endpoints on a continuum (Bushman & Anderson, 2001).
 
-Social psychologists agree that aggression can be verbal as well as physical. Therefore, slinging insults at a friend is definitely aggressive, according to our definition, just as hitting someone is. <!-- grav: [term] -->Physical aggression<!-- grav: [/term] --> is *aggression that involves harming others physically*—for instance hitting, kicking, stabbing, or shooting them. <!-- grav: [term] -->Nonphysical aggression<!-- grav: [/term] --> is *aggression that does not involve physical harm*. Nonphysical aggression includes <!-- grav: [term] -->verbal aggression<!-- grav: [/term] --> (*yelling, screaming, swearing, and name calling*) and <!-- grav: [term] -->relational or social aggression<!-- grav: [/term] -->, which is defined as *intentionally harming another person’s social relationships*, for instance, by gossiping about another person, excluding others from our friendship, or giving others the “silent treatment” (Crick & Grotpeter, 1995). Nonverbal aggression also occurs in the form of sexual, racial, and homophobic jokes and epithets, which are designed to cause harm to individuals.
+Social psychologists agree that aggression can be verbal as well as physical. Therefore, slinging insults at a friend is definitely aggressive, according to our definition, just as hitting someone is. Physical aggression is *aggression that involves harming others physically*—for instance hitting, kicking, stabbing, or shooting them. Nonphysical aggression is *aggression that does not involve physical harm*. Nonphysical aggression includes verbal aggression (*yelling, screaming, swearing, and name calling*) and relational or social aggression, which is defined as *intentionally harming another person’s social relationships*, for instance, by gossiping about another person, excluding others from our friendship, or giving others the “silent treatment” (Crick & Grotpeter, 1995). Nonverbal aggression also occurs in the form of sexual, racial, and homophobic jokes and epithets, which are designed to cause harm to individuals.
 
 The following list (adapted from Archer & Coyne, 2005) presents some examples of the types of nonphysical aggression that have been observed in children and adults. One reason that people may use nonphysical rather than physical aggression is that it is more subtle. When we use these techniques, we may be able to better get away with it—we can be aggressive without appearing to others to be aggressing.
 
@@ -47,7 +40,7 @@ The following list (adapted from Archer & Coyne, 2005) presents some examples of
 
 Although the negative outcomes of physical aggression are perhaps more obvious, nonphysical aggression also has costs to the victim. Craig (1998) found that children who were victims of bullying showed more depression, loneliness, peer rejection, and anxiety in comparison to other children. In Great Britain, 20% of adolescents report being bullied by someone spreading hurtful rumors about them (Sharp, 1995). Girls who are victims of nonphysical aggression have been found to be more likely to engage in harmful behaviors such as smoking or considering suicide (Olafsen & Viemero, 2000). And Paquette and Underwood (1999) found that both boys and girls rated social aggression as making them feel more “sad” and “bad” than did physical aggression.
 
-Recently, there has been an increase in school bullying through <!-- grav: [term] -->cyberbullying<!-- grav: [/term] -->—*aggression inflicted through the use of computers, cell phones, and other electronic devices* (Hinduja & Patchin, 2009). One notable recent example was the suicide of 18-year-old Rutgers University student Tyler Clementi on September 22, 2010. Tyler’s last words before he died were shared through an update to his Facebook status:
+Recently, there has been an increase in school bullying through cyberbullying—*aggression inflicted through the use of computers, cell phones, and other electronic devices* (Hinduja & Patchin, 2009). One notable recent example was the suicide of 18-year-old Rutgers University student Tyler Clementi on September 22, 2010. Tyler’s last words before he died were shared through an update to his Facebook status:
 
 “jumping off the gw bridge sorry”
 
@@ -59,7 +52,7 @@ Hinduja and Patchin (2009) found that youth who report being victims of cyberbul
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3314#h5p-18)
 
-<!-- grav: [details summary="Text version of: Chapter 9 Drag The Words – Which Type Of Aggression?"] --><details><summary>Text version of: Chapter 9 Drag The Words – Which Type Of Aggression?</summary>
+<details><summary>Text version of: Chapter 9 Drag The Words – Which Type Of Aggression?</summary>
 
 **H5P: TEST YOUR LEARNING: CHAPTER 9 DRAG THE WORDS – WHICH TYPE OF AGGRESSION?**
 
@@ -76,7 +69,7 @@ Social/relational and cyberbullying, Instrumental/cognitive and physical, Verbal
 3. A soccer player plans how to injure an opponent during a game, and when the opportunity arises, makes a knee-high tackle that leaves the opponent in need of medical attention.
 4. A woman loses her temper in the moment and shouts at her partner, using very offensive language
 
-</details><!-- grav: [/details] -->
+</details>
 
 ### Social Psychology in the Public Interest
 
@@ -101,7 +94,6 @@ Arie Kruglanski and Shira Fishman (2006) have argued that it is best to understa
 
 One recent example of the use of terrorism to promote one’s beliefs can be seen in the actions of Anders Behring Breivik, 32 (Figure 9.3), who killed over 90 people in July 2011 through a bomb attack in downtown Olso, Norway, and a shooting spree at a children’s campground. Breivik planned his attacks for years, believing that his actions would help spread his conservative beliefs about immigration and alert the Norwegian government to the threats posed by multiculturalism (and particularly the inclusion of Muslims in Norwegian society). This violent act of instrumental aggression is typical of terrorists.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -127,7 +119,6 @@ One recent example of the use of terrorism to promote one’s beliefs can be see
 - A suicide bomber kills himself and 30 other people in a crowded bus in Jerusalem.
 - North Korea develops a nuclear weapon that it claims it will use to defend itself from potential attack by other countries but that the United States sees as a threat to world peace.
 
-<!-- grav: [references] -->
 ### References
 
 Ames, D. L., & Fiske, S. T. (2013). Intentional harms are worse, even when they’re not. *Psychological Science, 24*(9), 1755-1762.
@@ -162,7 +153,6 @@ Potok M. (2010). Gays remain minority most targeted by hate crimes. *Intelligenc
 
 Sharp, S. (1995). How much does bullying hurt? The effects of bullying on the personal well-being and educational progress of secondary aged students. *Educational and Child Psychology, 12*(2), 81–88.
 
-<!-- grav: [/references] -->
 
  ### Media Attributions
 

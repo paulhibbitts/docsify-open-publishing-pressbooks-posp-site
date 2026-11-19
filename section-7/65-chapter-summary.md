@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/07.section-7/05.65-chapter-summary/section-page.md"}
-title: "6.5 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 6.5 Chapter Summary
-<!-- /grav:gen -->
 
 Conformity refers to the change in beliefs, opinions, and behaviors that occurs as the result of social influence. The typical outcome of conformity is that people’s beliefs and behaviors become more similar to those of others around them.
 

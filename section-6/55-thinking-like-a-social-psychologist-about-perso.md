@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/06.section-6/05.55-thinking-like-a-social-psychologist-about-perso/section-page.md"}
-title: "5.5 Thinking Like a Social Psychologist about Person Perception"
--->
-
-<!-- grav:gen -->
 # 5.5 Thinking Like a Social Psychologist about Person Perception
-<!-- /grav:gen -->
 
 Understanding other people is one of the most important tasks facing us in our everyday lives. Now that you are familiar with the processes we use during person perception, perhaps you will use this information to be more aware of—and perhaps even improve—your own person perception skills. Are you now more aware of how quickly you are forming impressions of other people and of how quickly they are forming impressions of you? Does this knowledge make you think differently about those snap judgments you make about others? Might it make you more careful about how you behave in front of others?
 
@@ -18,7 +12,7 @@ Finally, consider again the many ways that the processes of causal attribution g
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3242#h5p-16)
 
-<!-- grav: [details summary="Text version of: Chapter 5 True Or False Quiz"] --><details><summary>Text version of: Chapter 5 True Or False Quiz</summary>
+<details><summary>Text version of: Chapter 5 True Or False Quiz</summary>
 
 **H5P: Test your Learning: Chapter 5 True or False Quiz**
 
@@ -30,4 +24,4 @@ To check what you have remembered about some key concepts in this chapter, try t
 4. Gurjeet has depression, and so she is more likely than people who do not have depression to show the self-serving bias.
 5. Impression formation is a topic focused on how we interpret people’s personalities over the long-term.
 
-</details><!-- grav: [/details] -->
+</details>

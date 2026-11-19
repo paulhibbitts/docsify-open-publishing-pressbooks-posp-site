@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/12.section-12/04.114-thinking-like-a-social-psychologist-about-ster/section-page.md"}
-title: "11.4 Thinking Like a Social Psychologist about Stereotyping, Prejudice, and Discrimination"
--->
-
-<!-- grav:gen -->
 # 11.4 Thinking Like a Social Psychologist about Stereotyping, Prejudice, and Discrimination
-<!-- /grav:gen -->
 
 This chapter has focused on the ways in which people from different social groups feel about, think about, and behave toward each other. In most cases, we have positive thoughts and feelings about others, and our interactions with them are friendly and positive. And yet in other cases, there is a potential for negative interactions, and in rare cases, even hostility and violence.
 

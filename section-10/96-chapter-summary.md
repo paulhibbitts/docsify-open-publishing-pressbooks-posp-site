@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/10.section-10/06.96-chapter-summary/section-page.md"}
-title: "9.6 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 9.6 Chapter Summary
-<!-- /grav:gen -->
 
 Aggression refers to behavior that is intended to harm another individual. To determine whether or not a behavior is aggressive, we must determine the intent of the perpetrator. The level of intent that underlies an aggressive behavior creates the distinction between emotional or impulsive aggression (which refers to aggression that occurs with only a small amount of forethought or intent) and instrumental or cognitive aggression (which is intentional and planned). Aggression can be nonphysical as well as physical, and nonphysical aggression can be very damaging to its victims.
 
@@ -32,7 +26,7 @@ This chapter has reviewed how social psychologists understand aggression. Hopefu
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3328#h5p-21)
 
-<!-- grav: [details summary="Text version of: Chapter 9 Multiple-Choice Quiz"] --><details><summary>Text version of: Chapter 9 Multiple-Choice Quiz</summary>
+<details><summary>Text version of: Chapter 9 Multiple-Choice Quiz</summary>
 
 **H5P: Test your Learning: Chapter 9 Multiple-Choice Quiz**
 
@@ -64,4 +58,4 @@ Check how well you remember some key concepts and findings from this chapter by 
     3. there is no relationship between testosterone levels and aggression.
     4. aggression influences testosterone levels, but not the other way around
 
-</details><!-- grav: [/details] -->
+</details>

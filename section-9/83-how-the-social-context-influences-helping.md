@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/09.section-9/03.83-how-the-social-context-influences-helping/section-page.md"}
-title: "8.3 How the Social Context Influences Helping"
--->
-
-<!-- grav:gen -->
 # 8.3 How the Social Context Influences Helping
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -50,7 +43,7 @@ Even if we notice an emergency, we might not interpret it as one. The problem is
 
 The problem is compounded when others are present because when we are unsure how to interpret events we normally look to others to help us understand them (this is informational social influence). However, the people we are looking toward for understanding are themselves unsure how to interpret the situation, and they are looking to us for information at the same time we are looking to them.
 
-When we look to others for information we may assume that they know something that we do not know. This is often a mistake, because all the people in the situation are doing the same thing. None of us really know what to think, but at the same time we assume that the others do know. <!-- grav: [term] -->Pluralistic ignorance<!-- grav: [/term] -->occurs *when people think that others in their environment have information that they do not have and when they base their judgments on what they think the others are thinking*.
+When we look to others for information we may assume that they know something that we do not know. This is often a mistake, because all the people in the situation are doing the same thing. None of us really know what to think, but at the same time we assume that the others do know. Pluralistic ignoranceoccurs *when people think that others in their environment have information that they do not have and when they base their judgments on what they think the others are thinking*.
 
 Pluralistic ignorance seems to have been occurring in Latané and Darley’s studies, because even when the smoke became really heavy in the room, many people in the group conditions did not react to it. Rather, they looked at each other, and because nobody else in the room seemed very concerned, they each assumed that the others thought that everything was all right. You can see the problem—each bystander thinks that other people aren’t acting because they don’t see an emergency. Of course, everyone is confused, but believing that the others know something that they don’t, each observer concludes that help is not required.
 
@@ -58,7 +51,7 @@ Pluralistic ignorance is not restricted to emergency situations (Miller, Turnbul
 
 ### Taking Responsibility
 
-Even if we have noticed the emergency and interpret it as being one, this does not necessarily mean that we will come to the rescue of the other person. We still need to decide that it is our responsibility to do something. The problem is that when we see others around, it is easy to assume that they are going to do something and that we don’t need to do anything. <!-- grav: [term] -->Diffusion of responsibility<!-- grav: [/term] --> *occurs when we assume that others will take action and therefore we do not take action ourselves*. The irony, of course, is that people are more likely to help when they are the only ones in the situation than they are when there are others around.
+Even if we have noticed the emergency and interpret it as being one, this does not necessarily mean that we will come to the rescue of the other person. We still need to decide that it is our responsibility to do something. The problem is that when we see others around, it is easy to assume that they are going to do something and that we don’t need to do anything. Diffusion of responsibility *occurs when we assume that others will take action and therefore we do not take action ourselves*. The irony, of course, is that people are more likely to help when they are the only ones in the situation than they are when there are others around.
 
 Darley and Latané (1968) had study participants work on a communication task in which they were sharing ideas about how to best adjust to college life with other people in different rooms using an intercom. According to random assignment to conditions, each participant believed that he or she was communicating with either one, two, or five other people, who were in either one, two, or five other rooms. Each participant had an initial chance to give his or her opinions over the intercom, and on the first round one of the other people (actually a confederate of the experimenter) indicated that he had an “epileptic-like” condition that had made the adjustment process very difficult for him. After a few minutes, the subject heard the experimental confederate say,
 
@@ -106,7 +99,6 @@ Fischer and colleagues (2011) analyzed data from over 105 studies using over 7,5
 
 Although the Latané and Darley model was initially developed to understand how people respond in emergencies requiring immediate assistance, aspects of the model have been successfully applied to many other situations, ranging from preventing someone from driving drunk to making a decision about whether to donate a kidney to a relative (Schroeder, Penner, Dovidio, & Piliavin, 1995).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -122,7 +114,6 @@ Although the Latané and Darley model was initially developed to understand how 
 2. Recount a situation in which you did or did not help, and consider how that decision might have been influenced by the variables specified in Latané and Darley’s model.
 3. If you ever find yourself in a public situation in which you need help, what could you do to increase the likelihood that a bystander will actually help you?
 
-<!-- grav: [references] -->
 #### References
 
 Amato, P. R. (1983). The helpfulness of urbanites and small town dwellers: A test between two broad theoretical positions. *Australian Journal of Psychology, 35*(2), 233–243;
@@ -151,7 +142,6 @@ Schroeder, D. A., Penner, L. A., Dovidio, J. F., & Piliavin, J. A. (1995). *The 
 
 Suls, J., & Green, P. (2003). Pluralistic ignorance and college student perceptions of gender-specific alcohol norms. *Health Psychology, 22*(5), 479–486.
 
-<!-- grav: [/references] -->
 
  #### Image Descriptions
 

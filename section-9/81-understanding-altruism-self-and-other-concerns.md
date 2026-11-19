@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/09.section-9/01.81-understanding-altruism-self-and-other-concerns/section-page.md"}
-title: "8.1 Understanding Altruism: Self and Other Concerns"
--->
-
-<!-- grav:gen -->
 # 8.1 Understanding Altruism: Self and Other Concerns
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -17,7 +10,7 @@ title: "8.1 Understanding Altruism: Self and Other Concerns"
 > 5. Outline the social norms that influence helping.
 >
 
- <!-- grav: [term] -->Altruism<!-- grav: [/term] --> refers to *any behavior that is designed to increase another person’s welfare, and particularly those actions that do not seem to provide a direct reward to the person who performs them* (Batson, Ahmad, & Stocks, 2011; Dovidio, Piliavin, Schroeder, & Penner, 2006; Penner, Dovidio, Piliavin, & Schroeder, 2005). Rather than being the exception to the rule, recent research seems to indicate that these kinds of behaviors are intuitive, reflexive, and even automatic (Zaki & Mitchell, 2013). Altruism occurs when we donate blood, when we stop to help a stranger who has been stranded on the highway, when we volunteer at a homeless shelter or donate to a charity, or when we get involved to prevent a crime from occurring. Every day there are numerous acts of helping that occur all around us. As we will see, some of these represent true altruism, whereas others represent helping that is motivated more by self-concern. And, of course, there are also times when we do not help at all, seeming to not care about the needs of others.
+ Altruism refers to *any behavior that is designed to increase another person’s welfare, and particularly those actions that do not seem to provide a direct reward to the person who performs them* (Batson, Ahmad, & Stocks, 2011; Dovidio, Piliavin, Schroeder, & Penner, 2006; Penner, Dovidio, Piliavin, & Schroeder, 2005). Rather than being the exception to the rule, recent research seems to indicate that these kinds of behaviors are intuitive, reflexive, and even automatic (Zaki & Mitchell, 2013). Altruism occurs when we donate blood, when we stop to help a stranger who has been stranded on the highway, when we volunteer at a homeless shelter or donate to a charity, or when we get involved to prevent a crime from occurring. Every day there are numerous acts of helping that occur all around us. As we will see, some of these represent true altruism, whereas others represent helping that is motivated more by self-concern. And, of course, there are also times when we do not help at all, seeming to not care about the needs of others.
 
 Helping is strongly influenced by affective variables. Indeed, the parts of the brain that are most involved in empathy, altruism, and helping are the amygdala and the prefrontal cortex, areas that are responsible for emotion and emotion regulation (Figure 8.2, “Empathy and Helping in the Human Brain”).
 
@@ -56,7 +49,7 @@ Our reactions to others are influenced not only by our genetic relationship to t
 
 ### Reciprocity and Social Exchange
 
-Although it seems logical that we would help people we are related to or those we perceive as similar to us, why would we ever help people to whom we are not related? One explanation for such behavior is based on the principle of reciprocal altruism (Trivers, 1971). <!-- grav: [term] -->Reciprocal altruism<!-- grav: [/term] --> *is the idea that if we help other people now, they will return the favor should we need their help in the future*. Thus by helping others, we both increase our chances of survival and reproductive success and help others increase their chances of survival too. Over the course of evolution, those who engage in reciprocal altruism should be able to reproduce more often than those who do not, thus enabling this kind of altruism to continue. Reciprocal altruism means that people even may help total strangers, based on the assumption that doing so is useful because it may lead others to help them (when help is most needed) in the future.
+Although it seems logical that we would help people we are related to or those we perceive as similar to us, why would we ever help people to whom we are not related? One explanation for such behavior is based on the principle of reciprocal altruism (Trivers, 1971). Reciprocal altruism *is the idea that if we help other people now, they will return the favor should we need their help in the future*. Thus by helping others, we both increase our chances of survival and reproductive success and help others increase their chances of survival too. Over the course of evolution, those who engage in reciprocal altruism should be able to reproduce more often than those who do not, thus enabling this kind of altruism to continue. Reciprocal altruism means that people even may help total strangers, based on the assumption that doing so is useful because it may lead others to help them (when help is most needed) in the future.
 
 One fact that might help convince you that altruism is in fact evolutionarily adaptive is that many animals also engage in reciprocal altruism. Birds emit an alarm to nearby birds to warn them of a predator even at a potential cost to themselves. Dolphins may support sick or injured animals by swimming under them and pushing them to the surface so they can breathe. Male baboons threaten predators and guard the rear of the troop as it retreats. And even bats have a buddy system in which a bat that has had a successful night of feeding will regurgitate food for its less fortunate companion (Wilkinson, 1990).
 
@@ -67,7 +60,7 @@ Altruism can even be found in low-level organisms, such as the cellular slime mo
 <figcaption>Figure 8.4 Altruism is found in many organisms including even cellular slime molds (upper right).</figcaption>
 </figure>
 
- Reciprocal altruism is one example of the general principle of <!-- grav: [term] -->social exchange<!-- grav: [/term] -->. We frequently use each other to gain rewards and to help protect ourselves from harm, and helping is one type of benefit that we can provide to others. In some cases, this exchange reflects overt cooperation, such as when two students take notes for each other in classes that they miss or when neighbors care for each other’s pets while one of them is away. In other cases, the exchange may be more subtle and indirect: for instance, when we help someone we don’t really know, with the expectation that someone else may help us in return someday.
+ Reciprocal altruism is one example of the general principle of social exchange. We frequently use each other to gain rewards and to help protect ourselves from harm, and helping is one type of benefit that we can provide to others. In some cases, this exchange reflects overt cooperation, such as when two students take notes for each other in classes that they miss or when neighbors care for each other’s pets while one of them is away. In other cases, the exchange may be more subtle and indirect: for instance, when we help someone we don’t really know, with the expectation that someone else may help us in return someday.
 
 ## Social Reinforcement and Altruism: The Role of Rewards and Costs
 
@@ -105,9 +98,9 @@ Finally, helpers are healthy! Research has found that people who help are happie
 
 ### Social Norms for Helping
 
-The outcome of reinforcement for and modeling of helping is the development of social norms of morality—standards of behavior that we see as appropriate and desirable regarding helping (Eisenberg & Fabes, 1998). One norm that we all are aware of and that we attempt to teach our children is based on the principles of equity and exchange. The <!-- grav: [term] -->reciprocity norm<!-- grav: [/term] --> *is a social norm reminding us that we should follow the principles of reciprocal altruism*—if someone helps us, then we should help that person in the future, and we should help people now with the expectation that they will help us later if we need it. The reciprocity norm is found in everyday adages like “Scratch my back and I’ll scratch yours” and in religious and philosophical teachings such as the golden rule: “Do unto others as you would have them do unto you.” The reciprocity norm forms the basis of human cooperation and is found in every culture. For instance, [Religous tolerance](http://www.religioustolerance.org/reciproc.htm) offers a list of variations of the golden rule as expressed in 21 different religions. Because the rule is normally followed, people generally do help others who have helped them (Whatley, Webster, Smith, & Rhodes, 1999).
+The outcome of reinforcement for and modeling of helping is the development of social norms of morality—standards of behavior that we see as appropriate and desirable regarding helping (Eisenberg & Fabes, 1998). One norm that we all are aware of and that we attempt to teach our children is based on the principles of equity and exchange. The reciprocity norm *is a social norm reminding us that we should follow the principles of reciprocal altruism*—if someone helps us, then we should help that person in the future, and we should help people now with the expectation that they will help us later if we need it. The reciprocity norm is found in everyday adages like “Scratch my back and I’ll scratch yours” and in religious and philosophical teachings such as the golden rule: “Do unto others as you would have them do unto you.” The reciprocity norm forms the basis of human cooperation and is found in every culture. For instance, [Religous tolerance](http://www.religioustolerance.org/reciproc.htm) offers a list of variations of the golden rule as expressed in 21 different religions. Because the rule is normally followed, people generally do help others who have helped them (Whatley, Webster, Smith, & Rhodes, 1999).
 
-Because helping following the reciprocity norm is based on the return of earlier help and the expectation of a future return from others, it might not seem so much like true altruism to you. But we might also hope that our children internalize another relevant social norm that seems more altruistic—the social responsibility norm. The <!-- grav: [term] -->social responsibility norm<!-- grav: [/term] --> tells us that *we* *should try to help others who need assistance, even without any expectation of future paybacks*. The social responsibility norm involves a sense of duty and obligation, in which people are expected to respond to others by giving help to those in need of assistance. The teachings of many religions are based on the social responsibility norm that we should, as good human beings, reach out and help other people whenever we can.
+Because helping following the reciprocity norm is based on the return of earlier help and the expectation of a future return from others, it might not seem so much like true altruism to you. But we might also hope that our children internalize another relevant social norm that seems more altruistic—the social responsibility norm. The social responsibility norm tells us that *we* *should try to help others who need assistance, even without any expectation of future paybacks*. The social responsibility norm involves a sense of duty and obligation, in which people are expected to respond to others by giving help to those in need of assistance. The teachings of many religions are based on the social responsibility norm that we should, as good human beings, reach out and help other people whenever we can.
 
 #### Research Focus
 
@@ -127,7 +120,6 @@ It turned out that 12 of the participants decided not to flip the coin at all. O
 
 It appears that the students who flipped the coin wanted to be fair—they flipped the coin to see who would get the positive task. But in the end, they did not act on the principles of fairness when doing so conflicted with their self-interest. Rather, they tended to accept the results of the coin toss when it favored them but rejected it when it did not. Batson’s research makes clear the trade-offs that exist between helping ourselves and helping others. We know that helping is the right thing to do, but it hurts!
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -150,7 +142,6 @@ It appears that the students who flipped the coin wanted to be fair—they flipp
 - Nawaz volunteers once a week at a local soup kitchen.
 - George is a Buddhist and believes that true self-understanding comes only from selflessly helping others.
 
-<!-- grav: [references] -->
 #### References
 
 Anderson, C. A., & Bushman, B. J. (2001). Effects of violent video games on aggressive behavior, aggressive cognition, aggressive affect, physiological arousal, and prosocial behavior: A meta-analytic review of the scientific literature. *Psychological Science, 12*(5), 353–359.
@@ -219,7 +210,6 @@ Wilkinson, G. S. (1990, February). Food sharing in vampire bats. *Scientific Ame
 
 Zaki, J., & Mitchell, J. P. (2013). Intuitive prosociality. *Current Directions in Psychological Science, 22*(6), 466-470.
 
-<!-- grav: [/references] -->
 
  #### Image Descriptions
 

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/01.section-1/05.preface/section-page.md"}
-title: "Preface"
--->
-
-<!-- grav:gen -->
 # Preface
-<!-- /grav:gen -->
 
 ## Preface from Original Author
 

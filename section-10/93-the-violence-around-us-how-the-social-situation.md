@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/10.section-10/03.93-the-violence-around-us-how-the-social-situation/section-page.md"}
-title: "9.3 The Violence around Us: How the Social Situation Influences Aggression"
--->
-
-<!-- grav:gen -->
 # 9.3 The Violence around Us: How the Social Situation Influences Aggression
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -44,7 +37,6 @@ Given your knowledge about the importance of the social situation, it might not 
 
  The evidence is so clear because it has come through the accumulation of many studies conducted over many years, using a variety of research designs. These studies have included laboratory and field experiments, as well as both cross-sectional and longitudinal correlational studies, and have included people from many different cultures. In the correlational studies, many potential common-causing variables, such as intelligence, family background, socioeconomic status, and personality, have been controlled for. The potential for reverse causation has been eliminated through studies that have shown that viewing violence at a young age tends to predict aggressive behavior when the child is older, more than the other way around. Furthermore, laboratory studies in which people have been randomly assigned to view either violent or nonviolent material have shown the same results (Paik & Comstock, 1994; Zillman & Weaver, 1999). In one recent study, Coyne, Archer, and Eslea (2004) found that adolescents who viewed either physical or nonphysical aggression were subsequently more likely to behave in an aggressive manner than those who viewed no aggression.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -86,13 +78,13 @@ In one famous study (Berkowitz & Lepage, 1967), male university students were gi
 
 Another way that viewing violence increases aggression is through modeling. Children (and even adults) may simply imitate the violence they observe. Indeed, there is substantial evidence that people do copy the aggression that they read about or see in the media. For instance, when Belgian teenager Alisson Cambier spurned the romantic advances of her 24-year-old neighbour Thierry Jaradin, he excused himself only to return to the room wearing a ghostface costume and carrying two knives, which he used to stab her 30 times. He later admitted that the murder was premeditated and inspired by the horror film *Scream*. Research also has found strong evidence for copycat suicides. The rate of suicide in the general population increases significantly in the months after famous people, for instance Marilyn Monroe or Kurt Cobain, commit suicide (Phillips & Carstensen, 1986). In short, viewing violence teaches us how and when we should be aggressive.
 
-Another outcome of viewing large amounts of violent material is <!-- grav: [term] -->desensitization<!-- grav: [/term] -->, *the tendency to become used to, and thus less influenced by, a stimulus*. When we first see violence, we are likely to be shocked, aroused, and even repulsed by it. However, as we see more and more violence over time, we become habituated to it, such that subsequent exposures produce fewer and fewer negative emotional responses. In the end, we may begin to see violence as a normal part of everyday life and become accepting of it.
+Another outcome of viewing large amounts of violent material is desensitization, *the tendency to become used to, and thus less influenced by, a stimulus*. When we first see violence, we are likely to be shocked, aroused, and even repulsed by it. However, as we see more and more violence over time, we become habituated to it, such that subsequent exposures produce fewer and fewer negative emotional responses. In the end, we may begin to see violence as a normal part of everyday life and become accepting of it.
 
 In sum, continually viewing violence substantially changes how we think about and how our brains respond to the events that occur to us (Bartholow, Bushman, & Sestir, 2006). Frequent exposure to violence primes aggression and makes aggressive behavior more likely (Molitor & Hirsch, 1994). And viewing aggression frequently makes that aggression seem more normal and less negative. If we create for ourselves a world that contains a lot of violence, we become more distrustful and more likely to behave aggressively in response to conflict (Nabi & Sullivan, 2001).
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3322#h5p-19)
 
-<!-- grav: [details summary="Text version of: Chapter 9 Drag The Words – Video Games And Aggression"] --><details><summary>Text version of: Chapter 9 Drag The Words – Video Games And Aggression</summary>
+<details><summary>Text version of: Chapter 9 Drag The Words – Video Games And Aggression</summary>
 
 **H5P: TEST YOUR LEARNING: CHAPTER 9 DRAG THE WORDS – VIDEO GAMES AND AGGRESSION**
 
@@ -110,9 +102,8 @@ desensitization, modeling, priming, catharsis, displaced aggression
 4. 23-year-old Riya has played survival horror video games since her mid-teens. She finds that the realism of the graphics in these games has made it harder to find a horror movie that actually scares her.
 5. Boris, an 18-year-old university student, finds the chat function on his favorite video game can get quite toxic, with many aggressive comments sent back and forth. He tries to stay out of it, but the angrier the texts get, the more aggressive the replies that he thinks of to send.
 
-</details><!-- grav: [/details] -->
+</details>
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -129,7 +120,6 @@ desensitization, modeling, priming, catharsis, displaced aggression
 2. Watch some children’s television programming for one hour and make a note of the number and types of incidences of aggression depicted.
 3. Do you or people you know watch a lot of TV violence or play violent video games? How do you think this exposure is influencing you or them? Do you think you are less susceptible to violent media than other people?
 
-<!-- grav: [references] -->
 #### References
 
 Anderson, C. A., & Bushman, B. J. (2001). Effects of violent video games on aggressive behavior, aggressive cognition, aggressive affect, physiological arousal, and prosocial behavior: A meta-analytic review of the scientific literature. *Psychological Science, 12*(5), 353–359.
@@ -208,4 +198,3 @@ Wintemute, G. J., Parham, C. A., Beaumont, J. J., Wright, M., & Drake, C. (1999)
 
 Zillman, D., & Weaver, J. B., III. (1999). Effects of prolonged exposure to gratuitous media violence on provoked and unprovoked hostile behavior. *Journal of Applied Social Psychology, 29*(1), 145–165.
 
-<!-- grav: [/references] -->

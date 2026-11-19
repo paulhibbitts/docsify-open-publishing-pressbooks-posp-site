@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/04.section-4/02.32-the-feeling-self-self-esteem/section-page.md"}
-title: "3.2 The Feeling Self: Self-Esteem"
--->
-
-<!-- grav:gen -->
 # 3.2 The Feeling Self: Self-Esteem
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -21,13 +14,12 @@ title: "3.2 The Feeling Self: Self-Esteem"
 
 ## Self-Esteem
 
-<!-- grav: [term] -->Self-esteem<!-- grav: [/term] --> refers to *the positive (high self-esteem) or negative (low self-esteem) feelings that we have about ourselves*. We experience the positive feelings of high self-esteem when we believe that we are good and worthy and that others view us positively. We experience the negative feelings of low self-esteem when we believe that we are inadequate and less worthy than others.
+Self-esteem refers to *the positive (high self-esteem) or negative (low self-esteem) feelings that we have about ourselves*. We experience the positive feelings of high self-esteem when we believe that we are good and worthy and that others view us positively. We experience the negative feelings of low self-esteem when we believe that we are inadequate and less worthy than others.
 
 Our self-esteem is determined by many factors, including how well we view our own performance and appearance, and how satisfied we are with our relationships with other people (Tafarodi & Swann, 1995). Self-esteem is in part a trait that is stable over time, with some people having relatively high self-esteem and others having lower self-esteem. But self-esteem is also a state that varies day to day and even hour to hour. When we have succeeded at an important task, when we have done something that we think is useful or important, or when we feel that we are accepted and valued by others, our self-concept will contain many positive thoughts and we will therefore have high self-esteem. When we have failed, done something harmful, or feel that we have been ignored or criticized, the negative aspects of the self-concept are more accessible and we experience low self-esteem.
 
 Self-esteem can be measured using both explicit and implicit measures, and both approaches find that most people tend to view themselves positively. One common explicit self-report measure of self-esteem is the Rosenberg Self-Esteem Scale (Figure 3.8). Higher scores on the scale indicate higher self-esteem.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -71,7 +63,6 @@ For those of us who are actively seeking higher self-esteem, one way is to be su
 
 Another way we can boost our self-esteem is through building connections with others. Forming and maintaining satisfying relationships helps us to feel good about ourselves. A common way of doing this for many people around the world is through social networking sites. There are a growing number of studies exploring how we do this online and the effects that it has on our self-worth. One common way on Facebook is to share status updates, which we hope that our friends will then “like” or comment on. When our friends do not respond to our updates, however, this can negatively impact how we feel about ourselves. One study found that when regular Facebook users were assigned to an experimental condition where they were banned from sharing information on Facebook for 48 hours, they reported significantly lower levels of belonging and meaningful existence. In a second experiment, participants were allowed to post material to Facebook, but half of the participants’ profiles were set up by the researchers not to receive any responses, whether “likes” or comments, to their status updates. In line with predictions, that group reported lower self-esteem, level of belonging, level of control, and meaningful existence than the control group who did receive feedback (Tobin, Vanman, Verreynne, & Saeri, 2014). Whether online or offline, then, feeling ignored by our friends can dent our self-worth. We will explore other social influences on our self-esteem later in this chapter.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -105,7 +96,7 @@ Another way we can boost our self-esteem is through building connections with ot
 
  ### Narcissism and the Limits of Self-Enhancement
 
-Our discussion to this point suggests that many people will generally try to view themselves in a positive light. We emphasize our positive characteristics, and we may even in some cases distort information—all to help us maintain positive self-esteem. There can be negative aspects to having too much self-esteem, however, particularly if that esteem is unrealistic and undeserved. <!-- grav: [term] -->Narcissism<!-- grav: [/term] -->is *a personality trait characterized by overly high self-esteem, self-admiration, and self-centeredness*. Narcissists tend to agree with statements such as the following:
+Our discussion to this point suggests that many people will generally try to view themselves in a positive light. We emphasize our positive characteristics, and we may even in some cases distort information—all to help us maintain positive self-esteem. There can be negative aspects to having too much self-esteem, however, particularly if that esteem is unrealistic and undeserved. Narcissismis *a personality trait characterized by overly high self-esteem, self-admiration, and self-centeredness*. Narcissists tend to agree with statements such as the following:
 
 - “I know that I am good because everybody keeps telling me so.”
 - “I can usually talk my way out of anything.”
@@ -136,7 +127,7 @@ Baumeister and his colleagues concluded that programs designed to boost self-est
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3189#h5p-10)
 
-<!-- grav: [details summary="Text version of: Chapter 3 Drag The Words – Outcomes Of High Self-Esteem?"] --><details><summary>Text version of: Chapter 3 Drag The Words – Outcomes Of High Self-Esteem?</summary>
+<details><summary>Text version of: Chapter 3 Drag The Words – Outcomes Of High Self-Esteem?</summary>
 
 **H5P: TEST YOUR LEARNING: CHAPTER 3 DRAG THE WORDS – OUTCOMES OF HIGH SELF-ESTEEM?**
 
@@ -151,11 +142,11 @@ After reviewing the above summary of the findings reported by Baumeister et al.,
 7. Reduced involvement in cheating behavior
 8. Reduced involvement in bullying behavior
 
-</details><!-- grav: [/details] -->
+</details>
 
 Although we naturally desire to have social status and high self-esteem, we cannot always promote ourselves without any regard to the accuracy of our self-characterizations. If we consistently distort our capabilities, and particularly if we do this over a long period of time, we will just end up fooling ourselves and perhaps engaging in behaviors that are not actually beneficial to us. Most of us probably know someone who is convinced that he or she has a particular talent at a professional level, but we, and others, can see that this person is deluded (but perhaps we are too kind to say this). Some individuals who audition on television talent shows spring to mind. Such self-delusion can become problematic because although this high self-esteem might propel people to work harder, and although they may enjoy thinking positively about themselves, they may be setting themselves up for long-term disappointment and failure. Their pursuit of unrealistic goals may also take valuable time away from finding areas they have more chance to succeed in.
 
-When we self-enhance too much, although we may feel good about it in the short term, in the longer term the outcomes for the self may not be positive. The goal of creating and maintaining positive self-esteem (an affective goal) must be tempered by the cognitive goal of having an *accurate* self-view (Kirkpatrick & Ellis, 2001; Swann, Chang-Schneider, & Angulo, 2007). In some cases, the cognitive goal of obtaining an accurate picture of ourselves and our social world and the affective goal of gaining positive self-esteem work hand in hand. Getting the best grade in an important exam produces accurate knowledge about our skills in the domain as well as giving us some positive self-esteem. In other cases, the two goals are incompatible. Doing more poorly on an exam than we had hoped produces conflicting, contradictory outcomes. The poor score provides accurate information about the self—namely, that we have not mastered the subject—but at the same time makes us feel bad. <!-- grav: [term] -->Self-verification theory<!-- grav: [/term] --> states that *people often seek confirmation of their self-concept, whether it is positive or negative* (Swann, 1983). This sets up a fascinating clash between our need to self-enhance against our need to be realistic in our views of ourselves. Delusion versus truth: which one wins out? The answer, of course, as with pretty much everything to do with human social behavior, is that it depends. But on what does it depend?
+When we self-enhance too much, although we may feel good about it in the short term, in the longer term the outcomes for the self may not be positive. The goal of creating and maintaining positive self-esteem (an affective goal) must be tempered by the cognitive goal of having an *accurate* self-view (Kirkpatrick & Ellis, 2001; Swann, Chang-Schneider, & Angulo, 2007). In some cases, the cognitive goal of obtaining an accurate picture of ourselves and our social world and the affective goal of gaining positive self-esteem work hand in hand. Getting the best grade in an important exam produces accurate knowledge about our skills in the domain as well as giving us some positive self-esteem. In other cases, the two goals are incompatible. Doing more poorly on an exam than we had hoped produces conflicting, contradictory outcomes. The poor score provides accurate information about the self—namely, that we have not mastered the subject—but at the same time makes us feel bad. Self-verification theory states that *people often seek confirmation of their self-concept, whether it is positive or negative* (Swann, 1983). This sets up a fascinating clash between our need to self-enhance against our need to be realistic in our views of ourselves. Delusion versus truth: which one wins out? The answer, of course, as with pretty much everything to do with human social behavior, is that it depends. But on what does it depend?
 
 One factor is who the source is of the feedback about us: when we are seeking out close relationships, we more often form them with others who verify our self-views. We also tend to feel more satisfied with interactions with self-verifying partners than those who are always positive toward us (Swann, De La Ronde, & Hixon, 1994; Swann & Pelham, 2002). Self-verification seems to be less important to us in more distant relationships, as in those cases we often tend to prefer self-enhancing feedback.
 
@@ -167,7 +158,6 @@ Therefore, in those situations where the needs to enhance and to verify are in c
 
 There is one final cautionary note about focusing too much on self-enhancement, to the detriment of self-verification, and other-concern. Jennifer Crocker and Lora Park (2004) have identified another cost of our attempts to inflate our self-esteem: we may spend so much time trying to enhance our self-esteem in the eyes of others—by focusing on the clothes we are wearing, impressing others, and so forth—that we have little time left to really improve ourselves in more meaningful ways. In some extreme cases, people experience such strong needs to improve their self-esteem and social status that they act in assertive or dominant ways in order to gain it. As in many other domains, then, having positive self-esteem is a good thing, but we must be careful to temper it with a healthy realism and a concern for others. The real irony here is that those people who do show more other- than self-concern, those who engage in more prosocial behavior at personal costs to themselves, for example, often tend to have higher self-esteem anyway (Leak & Leak, 2003).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -187,7 +177,6 @@ There is one final cautionary note about focusing too much on self-enhancement, 
 2. Do you know people who have appropriately high self-esteem? What about people who are narcissists? How do these individual differences influence their social behavior in positive and negative ways?
 3. “It is relatively easy to succeed in life with low self-esteem, but very difficult to succeed without self-control, self-discipline, or emotional resilience in the face of setbacks” (Twenge & Campbell, 2009, p. 295). To what extent do you agree with this quote and why?
 
-<!-- grav: [references] -->
 #### References
 
 Aronson, E. (1992). The return of the repressed: Dissonance theory makes a comeback. *Psychological Inquiry, 3(4),* 303–311.
@@ -284,4 +273,3 @@ Twenge, J. M., Konrath, S., Foster, J. D., Campbell, W., & Bushman, B. J. (2008)
 
 Yamaguchi, S., Greenwald, A. G., Banaji, M. R., Murakami, F., Chen, D., Shiomura, K., & … Krendl, A. (2007). Apparent universality of positive implicit self-esteem. *Psychological Science*, *18*(6), 498-500. doi:10.1111/j.1467-9280.2007.01928.x
 
-<!-- grav: [/references] -->

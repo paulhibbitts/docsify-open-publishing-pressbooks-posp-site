@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/10.section-10/section.md"}
-title: "Chapter 9. Aggression"
--->
-
-<!-- grav:gen -->
 # Chapter 9. Aggression
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -34,7 +27,6 @@ title: "Chapter 9. Aggression"
 > - Give examples of some cultural differences in aggression.
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -67,14 +59,12 @@ We will answer these questions by considering the underlying principles of aggre
 <figcaption>Figure 9.2. When they feel that their self-concept is threatened, humans may engage in aggressive behavior.</figcaption>
 </figure>
 
-<!-- grav: [references] -->
 ### References
 
 Dutton, D. G., Boyanowsky, E. O., & Bond, M. H. (2005). Extreme mass homicide: From military massacre to genocide. Aggression and Violent Behavior, 10 (4), 437
 
 Pinker, S. (2011). *The better angels of our nature: Why violence has declined.* New York: Viking.
 
-<!-- grav: [/references] -->
 
  ### Media Attributions
 

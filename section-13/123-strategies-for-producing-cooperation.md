@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/13.section-13/03.123-strategies-for-producing-cooperation/section-page.md"}
-title: "12.3 Strategies for Producing Cooperation"
--->
-
-<!-- grav:gen -->
 # 12.3 Strategies for Producing Cooperation
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -60,7 +53,7 @@ Laboratory studies have also demonstrated the benefits of communication. Leigh T
 
 ## The Tit-for-Tat Strategy
 
-In social dilemma games that are run over a number of trials, various strategies can be used by the parties involved. But which is the best strategy to use in order to promote cooperation? One simple strategy that has been found to be effective in such situations is known as tit-for-tat. The <!-- grav: [term] -->tit-for-tat strategy<!-- grav: [/term] --> involves *initially making a cooperative choice and then simply matching the previous move of the opponent (whether cooperation or competition).*
+In social dilemma games that are run over a number of trials, various strategies can be used by the parties involved. But which is the best strategy to use in order to promote cooperation? One simple strategy that has been found to be effective in such situations is known as tit-for-tat. The tit-for-tat strategy involves *initially making a cooperative choice and then simply matching the previous move of the opponent (whether cooperation or competition).*
 
 Computers have been used to simulate the behavior of individuals who use the tit-for-tat strategy over a series of interactions in comparison with other approaches for determining whether to cooperate or compete on each trial. The tit-for-tat strategy has been found to work better than outright cooperation or other types of strategies in producing cooperation from the parties (Axelrod, 2005; Fischer & Suleiman, 2004; Van Lange & Visser, 1999).
 
@@ -72,7 +65,7 @@ Despite the fact that it generally works better than most other strategies, tit-
 
 In some cases, conflict becomes so extreme that the groups feel that they need to work together to reach a compromise. Several methods are used in these cases, including *negotiation*, *mediation*, and *arbitration*.
 
-<!-- grav: [term] -->Negotiation<!-- grav: [/term] --> is *the* *process by which two or more parties formally work together to attempt to resolve a perceived divergence of interest in order to avoid or resolve social conflict* (Thompson, Wang, & Gunia, 2010). The parties involved are often social groups, such as businesses or nations, although the groups may rely on one or a few representatives who actually do the negotiating. When negotiating, the parties who are in disagreement develop a set of communication structures in which they discuss their respective positions and attempt to develop a compromise agreement. To reach this agreement, each side makes a series of offers, followed by counteroffers from the other side, each time moving closer to a position that they can each agree on. Negotiation is successful if each of the parties finds that they have more to gain by remaining in the relationship or completing the transaction, even if they cannot get exactly what they want, than they would gain if they left the relationship entirely or continued the existing competitive state.
+Negotiation is *the* *process by which two or more parties formally work together to attempt to resolve a perceived divergence of interest in order to avoid or resolve social conflict* (Thompson, Wang, & Gunia, 2010). The parties involved are often social groups, such as businesses or nations, although the groups may rely on one or a few representatives who actually do the negotiating. When negotiating, the parties who are in disagreement develop a set of communication structures in which they discuss their respective positions and attempt to develop a compromise agreement. To reach this agreement, each side makes a series of offers, followed by counteroffers from the other side, each time moving closer to a position that they can each agree on. Negotiation is successful if each of the parties finds that they have more to gain by remaining in the relationship or completing the transaction, even if they cannot get exactly what they want, than they would gain if they left the relationship entirely or continued the existing competitive state.
 
 In some cases, negotiation is a type of fixed-sum process in which each individual wants to get as much as he or she can of the same good or commodity. For instance, in the sale of a property, if the seller wants the highest price possible, and the buyer wants the lowest price possible, the compromise will involve some sacrifice for each, or else it will not occur at all if the two parties cannot find a price on which they can agree. More often, the outcome of the negotiation is dependent upon the ability of the two parties to effectively communicate and to dispel negative misperceptions about the goals of the other party. When communication and trust are obtained in the situation, the parties may find that the situation is not completely fixed-sum but rather more integrative. The seller and buyer may be able to find an acceptable solution that is based on other aspects of the deal, such as the time that the deal is made or other costs and benefits involved. In fact, negotiators that maintain the assumption that the conflict is fixed-sum end up with lower individual and joint gain in comparison with negotiators who change their perceptions to be more integrative.
 
@@ -82,15 +75,15 @@ Negotiation is often accompanied by conflict, including threats and harassment o
 
 In some serious cases of disagreement, the parties involved in the negotiation decide that they must bring in outside help in the form of a “third” party, to help them reach an equitable solution or to prevent further conflict. The third party may be called upon by the parties who are in disagreement, their use may be required by laws, or in some cases a third party may rather spontaneously appear (such as when a friend or coworker steps in to help solve a dispute). The goal of the third party is to help those who are in conflict to reach agreement without embarrassment to either party. In general, third-party intervention works better if it is implemented before the conflict is too great. If the level of conflict is already high, the attempts to help may increase hostility, and the disputants may not consent to third-party intervention.
 
-<!-- grav: [term] -->Mediation<!-- grav: [/term] --> involves *helping to create compromise by using third-party negotiation* (Wall & Lynn, 1993). A mediator is a third party who is knowledgeable about the dispute and skilled at resolving conflict. During the mediation, the conflicting parties usually state the facts from their own perspective, which allows the mediator to determine each party’s interests and positions.
+Mediation involves *helping to create compromise by using third-party negotiation* (Wall & Lynn, 1993). A mediator is a third party who is knowledgeable about the dispute and skilled at resolving conflict. During the mediation, the conflicting parties usually state the facts from their own perspective, which allows the mediator to determine each party’s interests and positions.
 
 Mediators have a number of potential tactics that they can use, and they choose which ones seem best depending on the current state of affairs. These tactics include attempting to help the parties have more trust in each other, conferring with each of the parties separately, and helping them to accept the necessity of compromise. Through these tactics, the mediator may be able to reduce overt hostility and increase concern with understanding the others’ positions, which may lead to more integrative solutions. If necessary, the mediator may attempt to force the parties to make concessions, especially if there is little common ground to begin with. Mediation works best when both parties believe that a compromise is possible and think that third-party intervention can help reach it. Mediators who have experience and training make better mediators (Deutsch, 1994).
 
-Finally, another option is <!-- grav: [term] -->arbitration<!-- grav: [/term] -->, *a type of third-party intervention that avoids negotiation as well as the necessity of any meetings between the parties in conflict*. In the most common type of arbitration—binding arbitration—both sides agree ahead of time to abide by the decision of the third party (the arbitrator). They then independently submit their offers or desires along with their basis for their claims, and the arbitrator chooses between them. Whichever offer is chosen becomes the outcome, and there is no negotiation (Farber, 2005; Wolkinson & Ormiston, 2006). Arbitration is particularly useful when there is a single decision to be made under time constraints, whereas negotiation may be better if the parties have a long-term possibility for conflict and future discussion is necessary.
+Finally, another option is arbitration, *a type of third-party intervention that avoids negotiation as well as the necessity of any meetings between the parties in conflict*. In the most common type of arbitration—binding arbitration—both sides agree ahead of time to abide by the decision of the third party (the arbitrator). They then independently submit their offers or desires along with their basis for their claims, and the arbitrator chooses between them. Whichever offer is chosen becomes the outcome, and there is no negotiation (Farber, 2005; Wolkinson & Ormiston, 2006). Arbitration is particularly useful when there is a single decision to be made under time constraints, whereas negotiation may be better if the parties have a long-term possibility for conflict and future discussion is necessary.
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3385#h5p-23)
 
-<!-- grav: [details summary="Text version of: Chapter 12 Drag The Words – Negotiation, Mediation, Or Arbitration?"] --><details><summary>Text version of: Chapter 12 Drag The Words – Negotiation, Mediation, Or Arbitration?</summary>
+<details><summary>Text version of: Chapter 12 Drag The Words – Negotiation, Mediation, Or Arbitration?</summary>
 
 **H5P: TEST YOUR LEARNING: CHAPTER 12 DRAG THE WORDS – NEGOTIATION, MEDIATION, OR ARBITRATION?**
 
@@ -103,9 +96,8 @@ Review the definitions above of negotiation, mediation, and arbitration, and ide
 5. A celebrity couple, who did not get a pre-nuptial agreement, are divorcing and cannot agree on a fair division of their assets. They would like some help facilitating more dialogue.
 6. The founding partners in a furniture business are in conflict about whether to sell their company to a larger competitor. They have had a lot of dialogue together around the issue and have been unable to agree on a course of action. Their formerly strong relationship is coming under increasing strain, and they are considering recruiting the help of a third party to decide the issues.
 
-</details><!-- grav: [/details] -->
+</details>
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -120,7 +112,6 @@ Review the definitions above of negotiation, mediation, and arbitration, and ide
 
 1. Choose a real-world dispute among individuals or groups and analyze it using the principles we have considered in this chapter.
 
-<!-- grav: [references] -->
 #### References
 
 Axelrod, R. (2005). The success of tit-for-tat in computer tournaments. In M. H. Bazerman (Ed.), *Negotiation, decision making and conflict management* (Vol. 1–3, pp. 39–68). Northampton, MA: Edward Elgar Publishing.
@@ -197,4 +188,3 @@ Wall, J. A., & Lynn, A. (1993). Mediation: A current review. *Journal of Conflic
 
 Wolkinson, B. W., & Ormiston, R. (2006). The arbitration of work and family conflicts. In M. Pitt-Catsouphes, E. E. Kossek, & S. Sweet (Eds.), *The work and family handbook: Multi-disciplinary perspectives, methods, and approaches* (pp. 685–703). Mahwah, NJ: Lawrence Erlbaum.
 
-<!-- grav: [/references] -->

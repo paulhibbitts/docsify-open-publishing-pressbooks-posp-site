@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/03.section-3/05.25-chapter-summary/section-page.md"}
-title: "2.5 Chapter Summary"
--->
-
-<!-- grav:gen -->
 # 2.5 Chapter Summary
-<!-- /grav:gen -->
 
 This chapter has focused primarily on one central topic in social psychology: namely, the ways that we learn about and judge other people—our social cognition. The ability to make accurate judgments about our social situation is critical. For example, if we cannot understand others and predict how they will respond to us, our social interactions will be difficult indeed.
 

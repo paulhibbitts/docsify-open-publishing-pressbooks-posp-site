@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/08.section-8/section.md"}
-title: "Chapter 7. Liking and Loving"
--->
-
-<!-- grav:gen -->
 # Chapter 7. Liking and Loving
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -30,7 +23,6 @@ title: "Chapter 7. Liking and Loving"
 > - Explore key factors that contribute to the ending of close relationships.
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -55,7 +47,7 @@ title: "Chapter 7. Liking and Loving"
 
  In prior chapters, we have already begun to talk about some of the ways that we think about and interact with the people in our social worlds. In Chapter 2, for instance, in our exploration of social cognition, we considered how limited abilities to forecast others’ trading behaviors and overconfidence in the decisions that investors made helped to create the global financial crisis in 2008. In Chapter 3, in examining social influences on the self, we saw how the cultural groups we belong to can influence our sense of who we are. When we discussed person perception processes in Chapter 5, we saw that we often put too much weight on people’s personal characteristics and not enough on the situations they are in when we try to make sense of their behaviors. A lot of these areas of research, though, have explored our cognition and behaviors regarding other people in general, rather than specific people we are close to. In this chapter, we will turn our attention to our significant others and explore social psychological contributions to our understanding of close relationships.
 
-We all have many basic desires and needs that are often met in our close relationships, particularly with those others who provide <!-- grav: [term] -->social support<!-- grav: [/term] -->, which is *the approval, assistance, advice, and comfort that we receive from those with whom we have developed stable positive relationships* (Taylor, 2007).
+We all have many basic desires and needs that are often met in our close relationships, particularly with those others who provide social support, which is *the approval, assistance, advice, and comfort that we receive from those with whom we have developed stable positive relationships* (Taylor, 2007).
 
 Close relationships are relationships between people that are characterized by loving, caring, commitment, and intimacy—such as those between adult friends, dating partners, lovers, and married couples (Clark & LeMay, 2010; Hendrick & Hendrick, 2000). These relationships are determined by biological, evolutionary, individual, and cultural factors. Successful close relationships, like Anita and Frank Milford’s 80-year marriage, often involve the positive influence of cognitive variables, including perceptions of similarity with the other, interdependence, commitment, and the incorporation of other into the self-concept, as well as affective variables, including attachment, intimacy, and commitment. Our close relationships help us meet the goals of self-concern and other-concern.
 
@@ -72,7 +64,6 @@ Close relationships also keep us healthy. People who do not have adequate social
 
 In summary, our close relationships make us happy and healthy, and the lack of them leaves us lonely and hurting. We experience higher self-efficacy, self-esteem, and positive mood when we believe that our friends and partners are responding to us supportively and with a concern for our needs and our own welfare. Our relationships with others help us buffer the negative effects of stress, avoid unhealthy behaviors, and cope with serious physical illness. And our close relationships allow us to express our fundamental desires to reach out and respond to other people.
 
-<!-- grav: [references] -->
 ### References
 
 Baumeister, R., & Leary, M. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. *Psychological Bulletin, 117*, 497–529.
@@ -93,10 +84,9 @@ Leary, M. R., & Cox, C. B. (Eds.). (2008). *Belongingness motivation: A mainspri
 
 Taylor, S. E. (2007). Social support. In H. S. Friedman & R. C. Silver (Eds.), *Foundations of health psychology* (pp. 145–171). New York, NY: Oxford University Press.
 
-<!-- grav: [/references] -->
 
  ### Media Attributions
 
-- “<!-- grav-embed: [family portrait] -->:fas fa-mily fa-fw:(https://www.flickr.com/photos/yeho/7093388937)” by [Yoni Lerner](https://www.flickr.com/photos/yeho/ "Go to Yoni Lerner’s photostream") is licensed under a [CC BY-NC-ND 2.0 licence.](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+- “:fas fa-mily fa-fw:(https://www.flickr.com/photos/yeho/7093388937)” by [Yoni Lerner](https://www.flickr.com/photos/yeho/ "Go to Yoni Lerner’s photostream") is licensed under a [CC BY-NC-ND 2.0 licence.](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 - “[Love In The Air](https://www.flickr.com/photos/ottermatt/12309481503)” by [Matt Neighbors](https://www.flickr.com/photos/ottermatt/ "Go to Matt Neighbors’s photostream") is licensed under a [CC BY-NC 2.0 licence.](https://creativecommons.org/licenses/by-nc/2.0/)
 - “[Lots of Love](https://www.flickr.com/photos/aaronguyleroux/14509212766)” by [Aaron Guy Leroux](https://www.flickr.com/photos/aaronguyleroux/ "Go to Aaron Guy Leroux’s photostream") is licensed under a [CC BY-NC-ND 2.0 licence.](https://creativecommons.org/licenses/by-nc-nd/2.0/)

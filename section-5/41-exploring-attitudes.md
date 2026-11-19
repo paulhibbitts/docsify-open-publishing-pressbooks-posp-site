@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.principles-of-social-2026/05.section-5/01.41-exploring-attitudes/section-page.md"}
-title: "4.1 Exploring Attitudes"
--->
-
-<!-- grav:gen -->
 # 4.1 Exploring Attitudes
-<!-- /grav:gen -->
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -15,7 +8,7 @@ title: "4.1 Exploring Attitudes"
 > 3. Outline the factors that affect the strength of the attitude-behavior relationship.
 >
 
- Although we might use the term in a different way in our everyday life (e.g., “Hey, he’s really got an *attitude*!”), social psychologists reserve the term <!-- grav: [term] -->attitude<!-- grav: [/term] --> to refer to our *relatively enduring evaluation of something, where the something is called the attitude object*. The attitude object might be a person, a product, or a social group (Albarracín, Johnson, & Zanna, 2005; Wood, 2000). In this section, we will consider the nature and strength of attitudes and the conditions under which attitudes best predict our behaviors.
+ Although we might use the term in a different way in our everyday life (e.g., “Hey, he’s really got an *attitude*!”), social psychologists reserve the term attitude to refer to our *relatively enduring evaluation of something, where the something is called the attitude object*. The attitude object might be a person, a product, or a social group (Albarracín, Johnson, & Zanna, 2005; Wood, 2000). In this section, we will consider the nature and strength of attitudes and the conditions under which attitudes best predict our behaviors.
 
 ## Attitudes Are Evaluations
 
@@ -78,7 +71,7 @@ Because attitudes are evaluations, they can be assessed using any of the normal 
 
 ### Some Attitudes Are Stronger Than Others
 
-Some attitudes are more important than others because they are more useful to us and thus have more impact on our daily lives. *The importance of an attitude, as assessed by how quickly it comes to mind*, is known as <!-- grav: [term] -->attitude strength<!-- grav: [/term] --> (Fazio, 1990; Fazio, 1995; Krosnick & Petty, 1995). Some of our attitudes are strong attitudes, in the sense that we find them important, hold them with confidence, do not change them very much, and use them frequently to guide our actions. These strong attitudes may guide our actions completely out of our awareness (Ferguson, Bargh, & Nayak, 2005).
+Some attitudes are more important than others because they are more useful to us and thus have more impact on our daily lives. *The importance of an attitude, as assessed by how quickly it comes to mind*, is known as attitude strength (Fazio, 1990; Fazio, 1995; Krosnick & Petty, 1995). Some of our attitudes are strong attitudes, in the sense that we find them important, hold them with confidence, do not change them very much, and use them frequently to guide our actions. These strong attitudes may guide our actions completely out of our awareness (Ferguson, Bargh, & Nayak, 2005).
 
 Other attitudes are weaker and have little influence on our actions. For instance, John Bargh and his colleagues (Bargh, Chaiken, Raymond, & Hymes, 1996) found that people could express attitudes toward nonsense words such as *juvalamu* (which people liked) and *chakaka* (which they did not like). The researchers also found that these attitudes were very weak.
 
@@ -94,7 +87,7 @@ Attitudes are also stronger when the ABCs of affect, behavior, and cognition all
 
 Social psychologists (as well as advertisers, marketers, and politicians) are particularly interested in the behavioral aspect of attitudes. Because it is normal that the ABCs of our attitudes are at least somewhat consistent, our behavior tends to follow from our affect and cognition. If I determine that you have more positive cognitions about and more positive affect toward waffles than French toast, then I will naturally predict (and probably be correct when I do so) that you’ll be more likely to order waffles than French toast when you eat breakfast at a restaurant. Furthermore, if I can do something to make your thoughts or feelings toward French toast more positive, then your likelihood of ordering it for breakfast will also increase.
 
-<!-- grav: [term name="Principle of attitude consistency"] -->The principle of attitude consistency<!-- grav: [/term] --> (that *for any given attitude object, the ABCs of affect, behavior, and cognition are normally in line with each other*) thus predicts that our attitudes (for instance, as measured via a self-report measure) are likely to *guide behavior*. Supporting this idea, meta-analyses have found that there is a significant and substantial positive correlation among the different components of attitudes, and that attitudes expressed on self-report measures do predict behavior (Glasman & Albarracín, 2006).
+The principle of attitude consistency (that *for any given attitude object, the ABCs of affect, behavior, and cognition are normally in line with each other*) thus predicts that our attitudes (for instance, as measured via a self-report measure) are likely to *guide behavior*. Supporting this idea, meta-analyses have found that there is a significant and substantial positive correlation among the different components of attitudes, and that attitudes expressed on self-report measures do predict behavior (Glasman & Albarracín, 2006).
 
 However, our attitudes are not the only factor that influence our decision to act. The *theory of planned behavior*, developed by Martin Fishbein and Izek Ajzen (Ajzen, 1991; Fishbein & Ajzen, 1975), outlines three key variables that affect the attitude-behavior relationship: (a) the attitude toward the behaviour (the stronger the better), (b) subjective norms (the support of those we value), and (c) perceived behavioral control (the extent to which we believe we can actually perform the behavior). These three factors jointly predict our intention to perform the behavior, which in turn predicts our actual behavior (Figure 4.2, “Theory of Planned Behavior”).
 
@@ -118,7 +111,6 @@ The extent of the match between the social situations in which the attitudes are
 
 You can see that the problem here is that Magritte’s attitude is being expressed in one social situation (when she is with her parents), whereas the behavior (trying a cigarette) is going to occur in a very different social situation (when she is out with her friends). The relevant social norms are of course much different in the two situations. Magritte’s friends might be able to convince her to try smoking, despite her initial negative attitude, when they entice her with peer pressure. Behaviors are more likely to be consistent with attitudes when the social situation in which the behavior occurs is similar to the situation in which the attitude is expressed (Ajzen, 1991; LaPiere, 1936).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -144,7 +136,6 @@ You can see that the problem here is that Magritte’s attitude is being express
 
  Attitudes also predict behavior better for some people than for others. As we saw in Chapter 3, self-monitoring refers to individual differences in the tendency to attend to social cues and to adjust one’s behavior to one’s social environment. To return to our example of Magritte, you might wonder whether she is the type of person who is likely to be persuaded by peer pressure because she is particularly concerned with being liked by others. If she is, then she’s probably more likely to want to fit in with whatever her friends are doing, and she might try a cigarette if her friends offer her one. On the other hand, if Magritte is not particularly concerned about following the social norms of her friends, then she’ll more likely be able to resist the persuasion. *High self-monitors* are those who tend to attempt to blend into the social situation in order to be liked; *low self-monitors* are those who are less likely to do so. You can see that, because they allow the social situation to influence their behaviors, the relationship between attitudes and behavior will be weaker for high self-monitors than it is for low self-monitors (Kraus, 1995).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -161,7 +152,6 @@ You can see that the problem here is that Magritte’s attitude is being express
 1. Describe an example of a behavior that you engaged in that might be explained by the theory of planned behavior. Include each of the components of the theory in your analysis.
 2. Consider a time when you acted on your own attitudes and a time when you did not act on your own attitudes. What factors do you think determined the difference?
 
-<!-- grav: [references] -->
 #### References
 
 Abelson, R. P., Kinder, D. R., Peters, M. D., & Fiske, S. T. (1981). Affective and semantic components in political person perception. *Journal of Personality and Social Psychology, 42*, 619–630.
@@ -238,7 +228,6 @@ Wilson, T. D., & Schooler, J. W. (1991). Thinking too much: Introspection can re
 
 Wood, W. (2000). Attitude change: Persuasion and social influence. *Annual Review of Psychology*, 539–570.
 
-<!-- grav: [/references] -->
 
  #### Image Descriptions
 

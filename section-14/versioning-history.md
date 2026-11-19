@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/14.section-14/02.versioning-history/section-page.md"}
-title: "Versioning History"
--->
-
-<!-- grav:gen -->
 # Versioning History
-<!-- /grav:gen -->
 
 This page provides a record of edits and changes made to this book since its initial publication. Whenever edits or updates are made, we make the required changes in the text and provide a record and description of those changes here. The files on our website always reflect the most recent version, including the Print on Demand copy.
 

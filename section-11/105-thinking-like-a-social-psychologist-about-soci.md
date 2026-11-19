@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/11.section-11/05.105-thinking-like-a-social-psychologist-about-soci/section-page.md"}
-title: "10.5 Thinking Like a Social Psychologist about Social Groups"
--->
-
-<!-- grav:gen -->
 # 10.5 Thinking Like a Social Psychologist about Social Groups
-<!-- /grav:gen -->
 
 This chapter has looked at the ways in which small working groups come together to perform tasks and make decisions. In particular, we have taken a close look at some of the advantages and disadvantages of collective versus solo performance. Although groups can perform many tasks well, and although people like to use groups to make decisions, they also often come with their own problems.
 

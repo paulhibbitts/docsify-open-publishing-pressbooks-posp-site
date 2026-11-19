@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/10.section-10/05.95-thinking-like-a-social-psychologist-about-aggre/section-page.md"}
-title: "9.5 Thinking Like a Social Psychologist about Aggression"
--->
-
-<!-- grav:gen -->
 # 9.5 Thinking Like a Social Psychologist about Aggression
-<!-- /grav:gen -->
 
 This chapter has reviewed how social psychologists understand human aggression and violence. These actions surround us every day and cause much pain for many people. We have seen how social psychologists study aggression, their understanding of why it occurs, and how we might attempt to reduce it. Did you learn something about human aggression that surprised you and that helps you better understand social tragedies, such as school shootings, violence in sports, and even terrorism?
 
@@ -20,7 +14,7 @@ We hope you will apply this new knowledge in your everyday life. We must all wor
 
 [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3326#h5p-20)
 
-<!-- grav: [details summary="Text version of: Chapter 9 True Or False Quiz"] --><details><summary>Text version of: Chapter 9 True Or False Quiz</summary>
+<details><summary>Text version of: Chapter 9 True Or False Quiz</summary>
 
 **H5P: Test your Learning: Chapter 9 True or False Quiz**
 
@@ -32,4 +26,4 @@ Check your learning of some key concepts in this chapter by taking this quick tr
 4. In general, the presence of cues for violence in a situation will increase the salience of a violent response.
 5. In experimental studies, catharsis has been shown to be a reliable way of reducing aggressive behavior.
 
-</details><!-- grav: [/details] -->
+</details>

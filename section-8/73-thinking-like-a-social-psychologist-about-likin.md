@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.principles-of-social-2026/08.section-8/03.73-thinking-like-a-social-psychologist-about-likin/section-page.md"}
-title: "7.3 Thinking Like a Social Psychologist about Liking and Loving"
--->
-
-<!-- grav:gen -->
 # 7.3 Thinking Like a Social Psychologist about Liking and Loving
-<!-- /grav:gen -->
 
 There is no part of human experience that is more important to our survival than our close relationships with others. Without close relationships, we could not successfully reproduce, and without the social support provided by others who care about us, our lives would be less meaningful and we would be less mentally and physically healthy. Hopefully, this chapter has reminded you of the importance of your relationships with others or perhaps taught you to think differently about those relationships.
 
