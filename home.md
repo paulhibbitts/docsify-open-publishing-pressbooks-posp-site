@@ -24,7 +24,6 @@ Dr. Rajiv Jhangiani and Dr. Hammond Tarry
 >
 > [View original on Pressbooks](https://opentextbc.ca/socialpsychology/)
 >
-> *[Grav Open Publishing Space](https://www.hibbittsdesign.org/grav-open-publishing-space.html) supports embedded video, audio, and H5P activities. Video, audio, and H5P content in this converted book may appear as links rather than embedded content.*
 >
 
 The first international edition of this textbook provides students with an introduction to the basic concepts and principles of social psychology from an interactionist perspective. The presentation of classic studies and theories are balanced with insights from cutting-edge, contemporary research. An emphasis on real world examples and applications is intended to guide students to critically analyze their situations and social interactions in order to put their knowledge to effective use. In 2022, 25 interactive H5P activities were added throughout the book.
