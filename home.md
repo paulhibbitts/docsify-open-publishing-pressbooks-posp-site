@@ -51,7 +51,7 @@ The first international edition of this textbook provides students with an intro
 
 <div class="card">
 
-<h2><a href="#/section-1/accessibility-statement">Front Matter</a></h2>
+## [Front Matter](section-1/accessibility-statement.md) <!-- {docsify-ignore} -->
 
 Accessibility, about, preface, and acknowledgements.
 
@@ -59,79 +59,79 @@ Accessibility, about, preface, and acknowledgements.
 
 <div class="card">
 
-<h2><a href="#/section-2/README">Chapter 1. Introducing Social Psychology</a></h2>
+## [Chapter 1. Introducing Social Psychology](section-2/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-3/README">Chapter 2. Social Cognition</a></h2>
+## [Chapter 2. Social Cognition](section-3/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-4/README">Chapter 3. The Self</a></h2>
+## [Chapter 3. The Self](section-4/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-5/README">Chapter 4. Attitudes, Behavior, and Persuasion</a></h2>
+## [Chapter 4. Attitudes, Behavior, and Persuasion](section-5/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-6/README">Chapter 5. Perceiving Others</a></h2>
+## [Chapter 5. Perceiving Others](section-6/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-7/README">Chapter 6. Influencing and Conforming</a></h2>
+## [Chapter 6. Influencing and Conforming](section-7/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-8/README">Chapter 7. Liking and Loving</a></h2>
+## [Chapter 7. Liking and Loving](section-8/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-9/README">Chapter 8. Helping and Altruism</a></h2>
+## [Chapter 8. Helping and Altruism](section-9/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-10/README">Chapter 9. Aggression</a></h2>
+## [Chapter 9. Aggression](section-10/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-11/README">Chapter 10. Working Groups: Performance and Decision Making</a></h2>
+## [Chapter 10. Working Groups: Performance and Decision Making](section-11/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-12/README">Chapter 11. Stereotypes, Prejudice, and Discrimination</a></h2>
+## [Chapter 11. Stereotypes, Prejudice, and Discrimination](section-12/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-13/README">Chapter 12. Competition and Cooperation in Our Social Worlds</a></h2>
+## [Chapter 12. Competition and Cooperation in Our Social Worlds](section-13/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-14/about-the-authors">Back Matter</a></h2>
+## [Back Matter](section-14/about-the-authors.md) <!-- {docsify-ignore} -->
 
 Appendices, bibliography, and versioning history.
 
@@ -139,7 +139,7 @@ Appendices, bibliography, and versioning history.
 
 <div class="card">
 
-<h2><a href="#/section-15/README">Glossary</a></h2>
+## [Glossary](section-15/README.md) <!-- {docsify-ignore} -->
 
 Terms used in this book.
 
