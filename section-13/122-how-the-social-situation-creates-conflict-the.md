@@ -21,7 +21,9 @@ Social dilemmas such as the commons dilemma are arranged in a way that make it e
 
 Another type of social dilemma—the contributions dilemma—occurs *when the short-term costs of a behavior lead individuals to avoid performing it, and this may prevent the long-term benefits that would have occurred if the behaviors had been performed*. An example of a contributions dilemma occurs when individuals have to determine whether or not to donate to the local public radio or television station. If most people do not contribute, the TV station may have lower quality programming, or even go off the air entirely, thus producing a negative outcome for the group as a whole. However, if enough people already contribute, then it is not in anyone’s own best interest to do so, because the others will pay for the programming for them. Contributions dilemmas thus encourage people to free ride, relying on other group members to contribute for them.
 
-[View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3383#h5p-22)
+
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=22" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <details><summary>Text version of: Drag The Words – Covid-19 Social Dilemmas</summary>
 

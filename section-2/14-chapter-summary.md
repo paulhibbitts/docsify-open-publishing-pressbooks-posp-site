@@ -28,7 +28,9 @@ Because scientists are interested in determining the causal relationships among 
 
 External validity refers to the extent to which relationships can be expected to hold up when they are tested again in different ways and for different people. Meta-analyses can be used to assess the observed relationships among variables across many studies.
 
-[View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3144#h5p-5)
+
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=5" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <details><summary>Text version of: Chapter 1 Multiple-Choice Quiz</summary>
 

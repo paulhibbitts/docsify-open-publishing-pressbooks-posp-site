@@ -192,7 +192,9 @@ As you can see in Figure 3.14, “Self-Monitoring and Behavioral Mimicry,” Che
 
 This differential sensitivity to social dynamics between high and low self-monitors suggests that their self-esteem will be affected by different factors. For people who are high in self-monitoring, their self-esteem may be positively impacted when they perceive that their behavior matches the social demands of the situation, and negatively affected when they feel that it does not. In contrast, low self-monitors may experience self-esteem boosts when they see themselves behaving consistently with their internal standards, and feel less self-worth when they feel they are not living up to them (Ickes, Holloway, Stinson, & Hoodenpyle, 2006).
 
-[View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3195#h5p-11)
+
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=11" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <details><summary>Text version of: Chapter 3 Drag The Words – Climate Change And Sustainable Behavior In Social Context</summary>
 

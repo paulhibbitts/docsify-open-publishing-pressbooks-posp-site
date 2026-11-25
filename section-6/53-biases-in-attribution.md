@@ -130,7 +130,9 @@ Attributions that blame victims don’t only have the potential to help to reinf
 
 This pattern of attribution clearly has significant repercussions in legal contexts. For example, attributions about the victims of rape are related to the amount that people identify with the victim versus the perpetrator, which could have some interesting implications for jury selection procedures (Grubb & Harrower, 2009). Furthermore, men are less likely to make defensive attributions about the victims of sexual harassment than women, regardless of the gender of the victim and perpetrator (e.g., Smirles, 2004). Defensive attributions can also shape industrial disputes, for example, damages claims for work-related injuries. The victims of serious occupational accidents tend to attribute the accidents to external factors. In contrast, their coworkers and supervisors are more likely to attribute the accidents to internal factors in the victim (Salminen, 1992). Again, the role of responsibility attributions are clear here. It is in the victims’ interests to not be held accountable, just as it may well be for the colleagues or managers who might instead be in the firing line.
 
-[View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3237#h5p-15)
+
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=15" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <details><summary>Text version of: Chapter 5 Drag The Words – Attributional Errors And Biases</summary>
 

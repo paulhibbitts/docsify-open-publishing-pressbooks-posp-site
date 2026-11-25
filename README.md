@@ -11,7 +11,7 @@ The original book is by Dr. Rajiv Jhangiani and Dr. Hammond Tarry, licensed unde
 - `home.md` – the book's home page, with its cover image beside it
 - `section-1/` – Front Matter: accessibility statement, how to use this textbook, acknowledgements and more
 - `section-2/` … `section-13/` – Chapters 1 to 12, each with its overview (`README.md`) and pages
-- `section-14/` – Back Matter: about the authors and versioning history
+- `section-14/` – Back Matter: about the authors, versioning history and the book's Copyright page
 - `section-15/` – the Glossary
 
 Only the book is moved – the Grav site's other pages, such as its blog and Read Me, stay there. Images stay on Pressbooks, as in the Grav version.

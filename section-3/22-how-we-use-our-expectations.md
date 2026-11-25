@@ -206,7 +206,9 @@ These arguments are consistent with some evidence that, although mere awareness 
 
 Another source for some optimism about the accuracy of our social cognition is that these heuristics and biases can, despite their limitations, often lead us to a broadly accurate understanding of the situations we encounter. Although we do have limited cognitive abilities, information, and time when making social judgments, that does not mean we cannot and do not make enough sense of our social worlds in order to function effectively in our daily lives. Indeed, some researchers, including Cosmides and Tooby (2000) and Gigerenzer (2004) have argued that these biases and heuristics have been sculpted by evolutionary forces to offer fast and frugal ways of reaching sound judgments about our infinitely complex social worlds enough of the time to have adaptive value. If, for example, you were asked to say which Spanish city had a larger population, Madrid or Valencia, the chances are you would quickly answer that Madrid was bigger, even if you did not know the relevant population figures. Why? Perhaps the availability heuristic and cognitive accessibility had something to do with it—the chances are that most people have just heard more about Madrid in the global media over the years, and they can more readily bring these instances to mind. From there, it is a short leap to the general rule that larger cities tend to get more media coverage. So, although our journeys to our social judgments may not be always be pretty, at least we often arrive at the right destination.
 
-[View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3166#h5p-6)
+
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=6" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <details><summary>Text version of: Chapter 2 Drag The Words – Biases And Heuristics</summary>
 
@@ -276,7 +278,9 @@ But other researchers argue that painful memories such as sexual abuse are usual
 
 Taken together, then, the problems of eyewitness testimony represent another example of how social cognition—including the processes that we use to size up and remember other people—may be influenced, sometimes in a way that creates inaccurate perceptions, by the operation of salience, cognitive accessibility, and other information-processing biases.
 
-[View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3166#h5p-7)
+
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=7" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <details><summary>Text version of: Chapter 2 Fiill In The Blanks – Covid-19 And Family Dynamics Case Study</summary>
 

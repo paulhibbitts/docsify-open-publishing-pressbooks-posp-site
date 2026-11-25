@@ -31,7 +31,9 @@ Because social psychology concerns the relationships among people, and because w
 > - Punching a pillow or screaming out loud is a good way to reduce frustration and aggressive tendencies.
 > - People pull harder in a tug-of-war when they’re pulling alone than when pulling in a group.
 >
-> [View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3142#h5p-1)
+>
+> <iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=1" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 > <details><summary>Text version of: Chapter 1 Drag The Words – Classic Findings In Social Psychology</summary>
 
@@ -228,7 +230,9 @@ Despite the advantage of determining causation, experimental research designs do
 
 A second and perhaps more important limitation of experimental research designs is that some of the most interesting and important social variables cannot be experimentally manipulated. If we want to study the influence of the size of a mob on the destructiveness of its behavior, or to compare the personality characteristics of people who join suicide cults with those of people who do not join suicide cults, these relationships must be assessed using correlational designs because it is simply not possible to manipulate mob size or cult membership.
 
-[View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3142#h5p-2)
+
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <details><summary>Text version of: Chapter 1 Drag The Words – Independent And Dependent Variables</summary>
 
@@ -275,7 +279,9 @@ You may have wondered whether the participants in the video game study that we j
 
 In many cases, it is not possible in social psychology experiments to tell the research participants about the real hypotheses in the study, and so cover stories or other types of *deception* may be used. You can imagine, for instance, that if a researcher wanted to study racial prejudice, he or she could not simply tell the participants that this was the topic of the research because people may not want to admit that they are prejudiced, even if they really are. Although the participants are always told—through the process of *informed consent*—as much as is possible about the study before the study begins, they may nevertheless sometimes be deceived to some extent. At the end of every research project, however, participants should always receive a complete *debriefing* in which all relevant information is given, including the real hypothesis, the nature of any deception used, and how the data are going to be used.
 
-[View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3142#h5p-3)
+
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=3" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <details><summary>Text version of: Chapter 1 Drag The Words – Types Of Research Design</summary>
 
@@ -316,7 +322,9 @@ In some cases, researchers may test their hypotheses, not by conducting their ow
 
  It is important to realize that the understanding of social behavior that we gain by conducting research is a slow, gradual, and cumulative process. The research findings of one scientist or one experiment do not stand alone—no one study proves a theory or a research hypothesis. Rather, research is designed to build on, add to, and expand the existing research that has been conducted by other scientists. That is why whenever a scientist decides to conduct research, he or she first reads journal articles and book chapters describing existing research in the domain and then designs his or her research on the basis of the prior findings. The result of this cumulative process is that over time, research findings are used to create a systematic set of knowledge about social psychology (Figure 1.16, “Some Important Aspects of the Scientific Approach”).
 
-[View H5P activity online ↗](https://opentextbc.ca/socialpsychology/?p=3142#h5p-4)
+
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=4" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <details><summary>Text version of: Chapter 1 True Or False Quiz</summary>
 
