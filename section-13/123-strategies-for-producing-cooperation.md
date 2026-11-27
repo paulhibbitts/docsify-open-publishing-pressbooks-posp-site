@@ -81,9 +81,7 @@ Mediators have a number of potential tactics that they can use, and they choose 
 
 Finally, another option is [arbitration](/section-15/README.md?id=glossary-arbitration "A type of third-party intervention that avoids negotiation as well as the necessity of any meetings between the parties in conflict"), *a type of third-party intervention that avoids negotiation as well as the necessity of any meetings between the parties in conflict*. In the most common type of arbitration—binding arbitration—both sides agree ahead of time to abide by the decision of the third party (the arbitrator). They then independently submit their offers or desires along with their basis for their claims, and the arbitrator chooses between them. Whichever offer is chosen becomes the outcome, and there is no negotiation (Farber, 2005; Wolkinson & Ormiston, 2006). Arbitration is particularly useful when there is a single decision to be made under time constraints, whereas negotiation may be better if the parties have a long-term possibility for conflict and future discussion is necessary.
 
-
-<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=23" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=23" title="Chapter 12 - Drag the Words - Negotiation, Mediation, or Arbitration? (HT)" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <details><summary>Text version of: Chapter 12 Drag The Words – Negotiation, Mediation, Or Arbitration?</summary>
 

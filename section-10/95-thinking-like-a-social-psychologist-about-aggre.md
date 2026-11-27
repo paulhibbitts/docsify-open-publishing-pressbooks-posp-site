@@ -12,9 +12,7 @@ Because you are now more aware of the variables that cause aggression, we hope t
 
 We hope you will apply this new knowledge in your everyday life. We must all work harder to reduce our own aggression and to help others reduce theirs.
 
-
-<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=20" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=20" title="Chapter 9 - True/False Quiz (HT)" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <details><summary>Text version of: Chapter 9 True Or False Quiz</summary>
 

@@ -30,7 +30,7 @@ Associational learning also influences our knowledge and judgment about other pe
 
 Associational learning has long been, and continues to be, an effective tool in marketing and advertising (Hawkins, Best, & Coney, 1998). The general idea is to create an advertisement that has positive features so that it creates enjoyment in the person exposed to it. Because the product being advertised is mentioned in the ad, it becomes associated with the positive feelings that the ad creates. In the end, if everything has gone well, seeing the product online or in a store will then create a positive response in the buyer, leading him or her to be more likely to purchase the product.![qrcode.video7.1](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/qrcode.video7_.1-1.png)
 
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/_Km-2ecLrPo" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/_Km-2ecLrPo" title="Funny Commercials" frameborder="0" allowfullscreen="true"></iframe></div>
 
 *Video 2.1 [Funny Commercials](https://www.youtube.com/watch?v=_Km-2ecLrPo) uploaded by kin100.*
 
@@ -64,7 +64,7 @@ In addition to operant and associational learning, *people learn by observing th
 
 Bandura showed his film to groups of nursery school children and then let them play in a room in which there were some really fun toys. To create some frustration in the children, Bandura let the children play with the fun toys for only a couple of minutes before taking them away. Then Bandura gave the children a chance to play with the bobo doll. You probably won’t be surprised to hear that many of the children imitated the young woman in the film. They punched the bobo doll, shouted “Sockeroo!” and hit the doll with a hammer.
 
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/8ZXOp5PopIA" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/8ZXOp5PopIA" title="Bandura Bobo Doll.wmv" frameborder="0" allowfullscreen="true"></iframe></div>
 
 ![QR Code](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/qrcode.22528007.png)
 

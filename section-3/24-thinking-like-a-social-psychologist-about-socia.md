@@ -12,9 +12,7 @@ Finally, think back once more on the story with which we opened this chapter. Ca
 
 We hope that this chapter has provided you with some new and useful ideas about how you and others form impressions and has reminded you how others are forming (potentially erroneous) impressions of you. Most important, perhaps you have learned to be more modest about your judgments. Please remember to consider the possibility that your judgments and decisions, no matter how right and accurate they feel to you, may simply be wrong.
 
-
-<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=8" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=8" title="Chapter 2 - True/False Quiz (HT)" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <details><summary>Text version of: Chapter 2 True Of False Quiz</summary>
 

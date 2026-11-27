@@ -20,9 +20,7 @@ One factor that determines whether individuals cooperate or compete is the natur
 
 Learning about the nature of cooperation and competition may help you think more creatively about how to respond to conflict in your everyday life, make you more aware of the benefits of cooperating, and lead you to actively try to promote cooperative behaviors in your community.
 
-
-<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=25" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=25" title="Chapter 12 - Multiple Choice Quiz (HT)" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <details><summary>Text version of: Chapter 12 Multiple-Choice Quiz</summary>
 

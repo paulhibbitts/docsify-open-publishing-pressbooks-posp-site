@@ -50,9 +50,7 @@ Cyberbullying can be directed at anyone, but lesbian, gay, bisexual, and transge
 
 Hinduja and Patchin (2009) found that youth who report being victims of cyberbullying experience a variety of stresses from it, including psychological disorders, alcohol use, and in extreme cases, suicide. In addition to its emotional toll, cyberbullying also negatively affects students’ participation in, and success at, school.
 
-
-<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=18" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=18" title="Chapter 9 - Drag the Words - Which Type of Aggression? (HT)" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <details><summary>Text version of: Chapter 9 Drag The Words – Which Type Of Aggression?</summary>
 
@@ -154,7 +152,6 @@ Paquette, J. A., & Underwood, M. K. (1999). Gender differences in young adolesce
 Potok M. (2010). Gays remain minority most targeted by hate crimes. *Intelligence Report, 140*. Retrieved from http://www.splcenter.org/get-informed/intelligence-report/browse-all-issues/2010/winter/under-attack-gays-remain-minority-mos
 
 Sharp, S. (1995). How much does bullying hurt? The effects of bullying on the personal well-being and educational progress of secondary aged students. *Educational and Child Psychology, 12*(2), 81–88.
-
 
  ### Media Attributions
 

@@ -192,9 +192,7 @@ As you can see in Figure 3.14, “Self-Monitoring and Behavioral Mimicry,” Che
 
 This differential sensitivity to social dynamics between high and low self-monitors suggests that their self-esteem will be affected by different factors. For people who are high in self-monitoring, their self-esteem may be positively impacted when they perceive that their behavior matches the social demands of the situation, and negatively affected when they feel that it does not. In contrast, low self-monitors may experience self-esteem boosts when they see themselves behaving consistently with their internal standards, and feel less self-worth when they feel they are not living up to them (Ickes, Holloway, Stinson, & Hoodenpyle, 2006).
 
-
-<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=11" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<iframe src="https://opentextbc.ca/socialpsychology/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=11" title="Chapter 3 - Drag the Words - Climate Change and Sustainable Behavior in Social Context (HT)" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <details><summary>Text version of: Chapter 3 Drag The Words – Climate Change And Sustainable Behavior In Social Context</summary>
 
@@ -386,7 +384,6 @@ Wosinska, W., Dabul, A. J., Whetstone-Dion, R., & Cialdini, R. B. (1996). Self-p
 Yakushko, O., Davidson, M., & Williams, E.N. (2009). Identity Salience Model: A paradigm for integrating multiple identities in clinical practice. *Psychotherapy: Theory, Research, Practice, Training 46,* 180-192. doi: 10.1037/a0016080
 
 Yeung, K., & Martin, J. (2003). The Looking Glass Self: An empirical test and elaboration. *Social Forces*, *81*(3), 843-879. doi:10.1353/sof.2003.0048
-
 
  #### Media Attributions
 
